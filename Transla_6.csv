@@ -1,0 +1,1001 @@
+,English,English_cleaned,Spanish,French,German
+0,you're the best,you are the best,Eress el mejor,tu es le meilleur,Du bist der beste
+1,you're the boss,you are the boss,tú eres el jefe,tu es le patron,du bist der Boss
+2,you're to blame,you are to blame,usted es el culpable,tu es à blâmer,du bist schuld
+3,you're too loud,you are too loud,Eres muy ruidoso,tu es trop bruyant,du bist zu laut
+4,you're too slow,you are too slow,tu eres muy lento,Vous êtes trop lent,Du bist zu langsam
+5,you're too tall,you are too tall,eres demasiado alto,tu es trop grand,du bist zu groß
+6,you're too weak,you are too weak,eres demasiado débil,tu es trop faible,du bist zu schwach
+7,you're unbiased,you are unbiased,eres imparcial,tu es impartial,du bist unvoreingenommen
+8,you're up early,you are up early,te has levantado temprano,tu es levé tôt,Du bist früh wach
+9,you're very shy,you are very shy,eres muy tímido,tu es très timide,du bist sehr schüchtern
+10,you've been had,you have been had,te han tenido,tu as été eu,du wurdest gehabt
+11,you've found it,you have found it,lo has encontrado,tu l'as trouvé,du hast es gefunden
+12,your cat is fat,your cat is fat,tu gato es gordo,ton chat est gros,deine katze ist fett
+13,your time is up,your time is up,Tu tiempo se ha acabado,votre temps est écoulé,Ihre Zeit ist abgelaufen
+14,yours is better,yours is better,la suya es mejor,le tien est mieux,Deins ist besser
+15,5 is less than 8,5 is less than 8,5 es menos que 8,5 est inférieur à 8,5 ist weniger als 8
+16,"look, she said",look  she said,mira ella dijo,regarde elle a dit,"schau, sagte sie"
+17,a bird has wings,a bird has wings,un pájaro tiene alas,un oiseau a des ailes,Ein Vogel hat Flügel
+18,a cab is waiting,a cab is waiting,un taxi está esperando,un taxi attend,ein Taxi wartet
+19,a cop was killed,a cop was killed,un policía fue asesinado,un flic a été tué,ein Polizist wurde getötet
+20,a deal is a deal,a deal is a deal,un trato es un trato,un accord est un accord,ein Deal ist ein Deal
+21,a dog is barking,a dog is barking,un perro ladra,un chien aboie,ein Hund bellt
+22,a fuse has blown,a fuse has blown,se ha fundido un fusible,un fusible a sauté,eine Sicherung ist durchgebrannt
+23,a girl phoned me,a girl phoned me,una chica me llamó,une fille m'a téléphoné,ein Mädchen hat mich angerufen
+24,accidents happen,accidents happen,los accidentes ocurren,les accidents arrivent,Unfälle passieren
+25,air is invisible,air is invisible,el aire es invisible,l'air est invisible,Luft ist unsichtbar
+26,all are welcomed,all are welcomed,todos son bienvenidos,tous sont les bienvenus,alle sind willkommen
+27,all hope is gone,all hope is gone,ya no hay esperanza,Tout espoir est perdu,Alle Hoffnung ist verloren
+28,all men must die,all men must die,todos los hombres deben morir,Tous les hommes doivent mourir,alle Männer müssen sterben
+29,all of them died,all of them died,todos ellos murieron,tous sont morts,alle starben
+30,answer the phone,answer the phone,contestar el teléfono,repond au telephone,das Telefon beantworten
+31,any book will do,any book will do,cualquier libro servirá,n'importe quel livre fera l'affaire,jedes Buch tut es
+32,anybody knows it,anybody knows it,alguien lo sabe,quelqu'un le sait,jeder kennt es
+33,anyone can do it,anyone can do it,cualquiera puede hacerlo,n'importe qui peut le faire,jeder kann das
+34,are they friends,are they friends,son amigos,sont-ils amis,sind sie Freunde
+35,are they in love,are they in love,¿Están enamorados?,sont-ils amoureux,sind sie verliebt
+36,are those for me,are those for me,esos son para mi,sont ceux pour moi,sind das für mich
+37,are we all happy,are we all happy,somos todos felices,sommes-nous tous heureux,sind wir alle glücklich
+38,are we done here,are we done here,¿Hemos terminado aquí?,avons-nous fini ici,sind wir hier fertig
+39,are we going far,are we going far,vamos lejos,allons-nous loin,gehen wir weit
+40,are we safe here,are we safe here,¿Estamos seguros aquí?,sommes-nous en sécurité ici,Sind wir hier sicher?
+41,are you catholic,are you catholic,eres catolico,Etes vous catholique,bist Du katholisch
+42,are you japanese,are you japanese,Eres japonés,êtes-vous des Japonais,Bist du Japaner
+43,are you a doctor,are you a doctor,eres un doctor,Etes-vous un docteur,sind Sie ein Arzt
+44,are you a golfer,are you a golfer,eres golfista,êtes-vous un golfeur,Bist du ein Golfer?
+45,are you a lawyer,are you a lawyer,Eres un abogado,êtes vous avocat,bist du ein Anwalt
+46,are you a maniac,are you a maniac,eres un maníaco,es-tu un maniaque,bist du ein Verrückter
+47,are you a racist,are you a racist,eres racista,es-tu raciste,bist du ein rassist
+48,are you a singer,are you a singer,Eres un cantante,es-tu un chanteur,Bist du ein Sänger
+49,are you a typist,are you a typist,eres mecanógrafo,es-tu dactylographe,bist du schreibkraft
+50,are you a wizard,are you a wizard,Eres un mago,es-tu un sorcier,bist du ein Zauberer
+51,are you all nuts,are you all nuts,¿Estás loco?,êtes-vous tous fous,seid ihr alle verrückt
+52,are you an idiot,are you an idiot,eres un idiota,Es-tu un idiot,Bist du ein Idiot
+53,are you blushing,are you blushing,estas sonrojada,rougis-tu,wirst du rot?
+54,are you brothers,are you brothers,Son ustedes hermanos,êtes-vous frères,Seid ihr Brüder
+55,are you busy now,are you busy now,Estás ocupado,est-tu occupé maintenant,bist du jetzt beschäftigt
+56,are you drinking,are you drinking,Estas bebiendo,bois tu,Trinkt ihr
+57,are you dyslexic,are you dyslexic,¿Eres disléxico?,es-tu dyslexique,Bist du Legastheniker?
+58,are you finished,are you finished,¿has terminado?,avez-vous fini,bist du fertig
+59,are you for real,are you for real,de verdad,Es-tu sérieux,bist du dir sicher
+60,are you free now,are you free now,Estás libre ahora,Es-tu libre maintenant,bist du jetzt frei
+61,are you homeless,are you homeless,¿Estás sin hogar?,es-tu sans abri,bist du obdachlos
+62,are you in paris,are you in paris,estás en Paris,êtes-vous à Paris,Bist du in Paris
+63,are you new here,are you new here,eres nuevo aquí,êtes-vous nouveau ici,sind Sie neu hier
+64,are you on crack,are you on crack,Estás en la grieta,êtes-vous sur le crack,Bist du auf Crack
+65,are you positive,are you positive,eres positivo,es-tu positif,Bist du positiv
+66,are you pregnant,are you pregnant,Estás embarazada,es-tu enceinte,bist du schwanger
+67,are you still up,are you still up,sigues despierto,es-tu toujours debout,bist du noch auf
+68,are you students,are you students,ustedes son estudiantes,êtes-vous étudiants,Seid ihr Schüler
+69,are you studying,are you studying,estas estudiando,est-ce que tu étudies,studierst du
+70,are you two busy,are you two busy,¿Están ustedes dos ocupados?,êtes-vous occupés tous les deux,seid ihr zwei beschäftigt
+71,aren't you happy,are not you happy,no eres feliz,n'êtes-vous pas heureux,bist du nicht glücklich
+72,aren't you tired,are not you tired,no estas cansado,N'es-tu pas fatigué,Bist du nicht müde
+73,ask her her name,ask her her name,pregúntale su nombre,demande lui son nom,frag sie nach ihrem namen
+74,ask him his name,ask him his name,pregúntale su nombre,demande lui son nom,Frag ihn nach seinem Namen
+75,ask them to help,ask them to help,pedirles que ayuden,demandez-leur de vous aider,bitte sie um Hilfe
+76,"at last, he came",at last  he came,por fin vino,enfin il est venu,endlich kam er
+77,atlantis is real,atlantis is real,la atlántida es real,l'atlantide est réelle,Atlantis ist real
+78,attention please,attention please,atención por favor,"attention, s'il vous plaît",Aufmerksamkeit bitte
+79,be more flexible,be more flexible,ser más flexible,être plus souple,flexibler sein
+80,be there tonight,be there tonight,estar allí esta noche,être là ce soir,sei heute abend da
+81,birds have wings,birds have wings,los pájaros tienen alas,les oiseaux ont des ailes,Vögel haben Flügel
+82,bite your tongue,bite your tongue,muerdete la lengua,mord ta langue,Beiß dir auf die Zunge
+83,boxing is boring,boxing is boring,el boxeo es aburrido,la boxe est ennuyeuse,Boxen ist langweilig
+84,bring me a chair,bring me a chair,traeme una silla,apporte moi une chaise,Bring mir einen Stuhl
+85,bring me a drink,bring me a drink,tráeme un trago,apporte moi un verre,bring mir was zu trinken
+86,bring me my cane,bring me my cane,tráeme mi bastón,apporte moi ma canne,Bring mir meinen Stock
+87,bring them to me,bring them to me,tráemelos,apportez-les-moi,bring sie mir
+88,brush your teeth,brush your teeth,cepilla tus dientes,brosse-toi les dents,putz dir die Zähne
+89,business is slow,business is slow,el negocio es lento,les affaires sont lentes,Geschäft ist langsam
+90,call me tomorrow,call me tomorrow,Llámame mañana,appelle moi demain,Ruf mich morgen an
+91,can i be excused,can i be excused,¿Puedo ser excusado?,puis-je être excusé,kann ich entschuldigt werden
+92,can i be of help,can i be of help,puedo ser de ayuda,puis-je être utile,kann ich behilflich sein
+93,can i get a beer,can i get a beer,¿puedo tomar una cerveza?,puis-je avoir une bière,Kann ich ein Bier bekommen?
+94,can i go to work,can i go to work,puedo ir a trabajar,puis-je aller travailler,kann ich arbeiten gehen
+95,can i have a hug,can i have a hug,me das un abrazo,Puis-je avoir un câlin,Kann ich eine Umarmung haben
+96,can i sleep here,can i sleep here,¿Puedo dormir aquí?,puis-je dormir ici,Kann ich hier schlafen?
+97,can anyone drive,can anyone drive,¿alguien puede conducir?,quelqu'un peut-il conduire,kann jeder fahren
+98,can rabbits swim,can rabbits swim,los conejos pueden nadar,les lapins savent-ils nager,können kaninchen schwimmen
+99,can this be true,can this be true,¿Puede esto ser verdad?,cela peut-il être vrai,kann das wahr sein
+100,can we afford it,can we afford it,¿Podemos permitírnoslo?,pouvons-nous nous le permettre,können wir es uns leisten
+101,can we drop this,can we drop this,¿Podemos dejar esto?,pouvons-nous laisser tomber ça,können wir das fallen lassen
+102,can we get a dog,can we get a dog,¿Podemos tener un perro?,pouvons-nous avoir un chien,Können wir einen Hund bekommen?
+103,can we go inside,can we go inside,¿Podemos entrar?,pouvons-nous entrer,können wir reingehen
+104,can we speak now,can we speak now,podemos hablar ahora,pouvons-nous parler maintenant,können wir jetzt sprechen
+105,can you call him,can you call him,puedes llamarle,pouvez-vous l'appeler,kannst du ihn anrufen
+106,can you continue,can you continue,puedes continuar,pouvez-vous continuer,kannst du weiter machen
+107,can you find out,can you find out,Puedes averiguar,pouvez-vous trouver,Kannst du es herausfinden
+108,can you hurry up,can you hurry up,¿Puedes darte prisa?,pouvez-vous vous dépêcher,kannst du dich beeilen
+109,can you prove it,can you prove it,puedes probarlo,Tu peux le prouver,Kannst du das beweisen
+110,can you save tom,can you save tom,puedes salvar a tom,pouvez-vous sauver Tom,Kannst du Tom retten?
+111,can you spell it,can you spell it,Puede usted deletrearlo,Peut tu l'épeler,kannst du es buchstabieren
+112,change is needed,change is needed,se necesita un cambio,le changement est nécessaire,Änderung ist erforderlich
+113,check your order,check your order,revisa tu pedido,vérifier votre commande,Überprüfen Sie Ihre Bestellung
+114,choose carefully,choose carefully,elija cuidadosamente,choisir soigneusement,wähle mit Bedacht
+115,choose something,choose something,escoge algo,choisir quelque chose,wähle etwas
+116,climb to the top,climb to the top,escalar a la cima,escalade jusqu'au sommet,Zur Spitze klettern
+117,close the blinds,close the blinds,cierra las persianas,fermer les stores,schließen Sie die Jalousien
+118,close the drawer,close the drawer,cierra el cajón,fermer le tiroir,schließen Sie die Schublade
+119,close the window,close the window,cerrar la ventana,ferme la fenêtre,schließe das Fenster
+120,close your books,close your books,cierra tus libros,fermez vos livres,Schließen Sie Ihre Bücher
+121,come and help us,come and help us,ven y ayúdanos,venez nous aider,komm und hilf uns
+122,come immediately,come immediately,ven inmediatamente,viens tout de suite,Komm sofort
+123,"come on, grow up",come on  grow up,vamos a crecer,allez grandir,"Komm schon, werde erwachsen"
+124,"come on, help me",come on  help me,ven ayúdame,allez aidez moi,komm hilf mir
+125,"come on, tell me",come on  tell me,vamos dime,allez dis moi,"Komm schon, sag es mir"
+126,"come on, wake up",come on  wake up,vamos Despiértate,"Allez, réveille-toi","Komm schon, wach auf"
+127,come run with me,come run with me,ven a correr conmigo,viens courir avec moi,komm lauf mit mir
+128,come sit with us,come sit with us,ven siéntate con nosotros,viens t'asseoir avec nous,komm setz dich zu uns
+129,come with me now,come with me now,ven conmigo ahora,Venez avec moi maintenant,Komm jetzt mit mir
+130,"concentrate, tom",concentrate  tom,concentrado tom,concentré tom,konzentrieren tom
+131,consult a doctor,consult a doctor,consultar a un médico,consultez un docteur,einen Arzt konsultieren
+132,continue digging,continue digging,seguir cavando,continuer à creuser,weiter graben
+133,continue working,continue working,sigue trabajando,continue de travailler,arbeite weiter
+134,control yourself,control yourself,controlarte a ti mismo,contrôle-toi,kontrolliere dich selbst
+135,cookie is my dog,cookie is my dog,la galleta es mi perro,cookie est mon chien,Keks ist mein Hund
+136,could i help you,could i help you,podria ayudarte,puis-je vous aider,könnte ich Ihnen helfen
+137,cows supply milk,cows supply milk,las vacas dan leche,les vaches fournissent du lait,Kühe liefern Milch
+138,cross the bridge,cross the bridge,cruzar el puente,Traverse le pont,überquere die Brücke
+139,cross the street,cross the street,cruza la calle,traverser la rue,die Straße überqueren
+140,crying is normal,crying is normal,llorar es normal,pleurer est normal,Weinen ist normal
+141,cut the red wire,cut the red wire,Corte el cable rojo,couper le fil rouge,Schneiden Sie das rote Kabel
+142,dial 110 at once,dial 110 at once,marca 110 de una vez,composer le 110 d'un coup,wähle sofort 110
+143,did i write that,did i write that,¿Escribí eso?,est-ce que j'ai écrit ça,habe ich das geschrieben
+144,did tom go alone,did tom go alone,Tom fue solo,est-ce que tom est parti seul,Ist Tom allein gegangen?
+145,did tom say that,did tom say that,tom dijo eso,est-ce que tom a dit ça,hat tom das gesagt
+146,did anyone laugh,did anyone laugh,alguien se rio,est-ce que quelqu'un a ri,hat jemand gelacht
+147,did he touch you,did he touch you,¿te tocó?,t'a-t-il touché,hat er dich berührt
+148,did she say that,did she say that,ella dijo eso,a-t-elle dit que,hat sie das gesagt
+149,did the dog bark,did the dog bark,ladró el perro,le chien a-t-il aboyé,bellte der Hund
+150,did they say how,did they say how,¿Dijeron cómo?,ont-ils dit comment,haben sie gesagt wie
+151,did they say why,did they say why,¿Dijeron por qué?,ont-ils dit pourquoi,haben sie gesagt warum
+152,did you find tom,did you find tom,encontraste a tom,as-tu trouvé tom,hast du tom gefunden
+153,did you have fun,did you have fun,Te divertiste,t'es-tu amusé,hattest du Spaß
+154,did you kill tom,did you kill tom,mataste a tom,as-tu tué tom,hast du tom getötet
+155,did you love tom,did you love tom,amabas a tom,est-ce que tu aimais tom,hast du tom geliebt
+156,did you meet her,did you meet her,la conociste,l'avez-vous rencontrée,hast du sie getroffen
+157,did you phone me,did you phone me,me llamaste,m'as-tu téléphoné,hast du mich angerufen
+158,did you see that,did you see that,Viste eso,as-tu vu ça,hast du das gesehen
+159,did you stop tom,did you stop tom,detuviste a tom,as-tu arrêté tom,Hast du Tom angehalten?
+160,did you tell tom,did you tell tom,le dijiste a tom,as-tu dit à Tom,hast du tom gesagt
+161,did you vote yet,did you vote yet,ya votaste,avez-vous déjà voté,hast du schon abgestimmt
+162,do i smell bacon,do i smell bacon,huelo tocino,Est-ce que je sens du bacon,Rieche ich Speck
+163,do as i tell you,do as i tell you,haz lo que te digo,fais ce que je te dis,mach was ich dir sage
+164,do as i told you,do as i told you,haz lo que te dije,fais comme je t'ai dit,mach es wie ich es dir gesagt habe
+165,do as you please,do as you please,Haz lo que quieras,fais comme tu veux,mach was du willst
+166,do it delicately,do it delicately,hazlo con delicadeza,faites-le délicatement,mach es vorsichtig
+167,do it right away,do it right away,hazlo de inmediato,fais le tout de suite,mach es gleich
+168,do what you like,do what you like,has lo que quieras,fais ce qui te plaît,mach was du willst
+169,do what you want,do what you want,Haz lo que quieras,Faites ce que vous voulez,"Tun Sie, was Sie wollen"
+170,do you eat a lot,do you eat a lot,comes mucho,tu manges beaucoup,isst du viel
+171,do you even care,do you even care,Acaso te importa,est-ce que tu en as quelque chose à faire,Interessiert dich das überhaupt
+172,do you feel sick,do you feel sick,Te siente mal,Vous sentez-vous malade,Fühlst du dich nicht wohl
+173,do you have beer,do you have beer,tienes cerveza,avez-vous de la bière,Hast du Bier
+174,do you have them,do you have them,los tienes,est-ce que tu les as,Hast du sie
+175,do you have time,do you have time,tienes tiempo,as-tu du temps,habt ihr Zeit
+176,do you hear that,do you hear that,escuchas eso,entends-tu cela,hörst du das
+177,do you know them,do you know them,Los conoces,tu les connais,kennst du sie
+178,do you like beer,do you like beer,Te gusta la cerveza,aimes-tu la bière,Magst du Bier
+179,do you like cats,do you like cats,te gustan los gatos,aimes-tu les chats,magst du Katzen
+180,do you like dogs,do you like dogs,Te gustan los perros,Aimes tu les chiens,Mögen Sie Hunde
+181,do you like fish,do you like fish,Te gusta el pescado,aimes-tu le poisson,Magst du Fisch
+182,do you like mine,do you like mine,Te gusta el mío,Est-ce que tu aimes le mien,magst du meines
+183,do you like snow,do you like snow,Te gusta la nieve,aimes tu la neige,Magst du Schnee
+184,do you like that,do you like that,te gusta eso,est-ce que tu aimes ça,gefällt dir das
+185,do you like this,do you like this,Te gusta este,aimes-tu ça,magst du das
+186,do you live here,do you live here,vive usted aquí,vivez-vous ici,lebst du hier
+187,do you mind much,do you mind much,te importa mucho,cela vous dérange-t-il beaucoup,macht es dir viel aus
+188,do you need help,do you need help,necesitas ayuda,as-tu besoin d'aide,brauchst du Hilfe
+189,do you own a gun,do you own a gun,Posees un arma,Possédez-vous une arme à feu,Besitzt du eine Waffe
+190,do you play golf,do you play golf,juegas al golf,joues-tu au golf,spielst du Golf
+191,do you trust her,do you trust her,¿Confías en ella?,as-tu confiance en elle,vertraust du ihr
+192,do you want kids,do you want kids,Quieres niños,voulez-vous des enfants,Möchtest du Kinder
+193,do you want this,do you want this,quieres esto,veux-tu ça,willst du das
+194,do you want wine,do you want wine,quieres vino,veux-tu du vin,willst du wein
+195,do you work here,do you work here,Trabajas aquí,travaillez-vous ici,arbeitest du hier
+196,do your homework,do your homework,Haz tu tarea,fais tes devoirs,mach deine Hausaufgaben
+197,does anyone care,does anyone care,Le importa a alguien,est-ce que quelqu'un s'en soucie,interessiert es jemanden
+198,dogs are barking,dogs are barking,los perros ladran,les chiens aboient,Hunde bellen
+199,don't ask me why,do not ask me why,no me preguntes porque,ne me demande pas pourquoi,Frage mich nicht warum
+200,don't be a moron,do not be a moron,no seas idiota,ne soyez pas un imbécile,Sei kein Idiot
+201,don't be alarmed,do not be alarmed,No te alarmes,ne vous inquiétez pas,Sei nicht beunruhigt
+202,don't be foolish,do not be foolish,no seas tonto,ne soyez pas stupide,sei nicht leichtsinnig
+203,don't be so lazy,do not be so lazy,no seas tan perezoso,ne sois pas si paresseux,sei nicht so faul
+204,don't be so slow,do not be so slow,no seas tan lento,ne sois pas si lent,sei nicht so langsam
+205,don't come again,do not come again,no vengas de nuevo,ne reviens plus,komm nicht wieder
+206,don't deceive me,do not deceive me,no me engañes,ne me trompe pas,täusche mich nicht
+207,don't disturb me,do not disturb me,no me molestes,ne me dérange pas,Stör mich nicht
+208,"don't do it, tom",do not do it  tom,no lo hagas tom,ne le fais pas tom,Tu es nicht Tom
+209,don't drink that,do not drink that,no bebas eso,ne bois pas ça,trink das nicht
+210,don't leave town,do not leave town,no dejes la ciudad,ne quitte pas la ville,verlasse die Stadt nicht
+211,don't look at it,do not look at it,no lo mires,ne le regarde pas,schau es dir nicht an
+212,don't look at me,do not look at me,no me mires,ne me regarde pas,Sie mich nicht an
+213,don't look at us,do not look at us,no nos mires,ne nous regarde pas,schau uns nicht an
+214,don't lose heart,do not lose heart,No pierdas el corazón,ne perdez pas courage,Verliere nicht den Mut
+215,don't make me go,do not make me go,no me hagas ir,ne me fais pas partir,lass mich nicht gehen
+216,don't make noise,do not make noise,No hagas ruido,ne faites pas de bruit,Bitte keinen Lärm machen
+217,don't mention it,do not mention it,No lo menciones,Je vous en prie,erwähnen Sie es nicht
+218,don't pick it up,do not pick it up,no lo recoja,ne le ramassez pas,hebe es nicht auf
+219,don't rip me off,do not rip me off,no me arranques,ne m'arnaque pas,verarsch mich nicht
+220,don't say a word,do not say a word,no digas una sola palabra,Pas un mot,Sag kein Wort
+221,don't talk to me,do not talk to me,no me hables,ne me parlez pas,Rede nicht mit mir
+222,don't touch this,do not touch this,no toques esto,Ne touche pas ça,berühre das nicht
+223,don't yell at me,do not yell at me,no me grites,ne me cries pas dessus,Schrei mich nicht an
+224,don't you get it,do not you get it,no lo entiendes,ne comprends-tu pas,verstehst du es nicht
+225,drink more water,drink more water,bebe más agua,boire plus d'eau,trinke mehr Wasser
+226,drink some water,drink some water,bebe un poco de agua,bois un peu d'eau,etwas Wasser trinken
+227,drink this juice,drink this juice,bebe este jugo,bois ce jus,trinke diesen Saft
+228,drinks are on me,drinks are on me,las bebidas corren por mi cuenta,les boissons sont pour moi,Getränke gehen auf mich
+229,eat meals slowly,eat meals slowly,comer las comidas lentamente,manger des repas lentement,iss die Mahlzeiten langsam
+230,eat your spinach,eat your spinach,come tus espinacas,mange tes épinards,Iss deinen Spinat
+231,eat your veggies,eat your veggies,Come tus vegetales,manges tes légumes,Iss dein Gemüse
+232,enjoy yourselves,enjoy yourselves,disfruten,Amusez-vous,vergnügt euch
+233,everybody agrees,everybody agrees,todos están de acuerdo,tout le monde est d'accord,alle stimmen zu
+234,everybody groans,everybody groans,todos gimen,tout le monde grogne,alle stöhnen
+235,everybody jumped,everybody jumped,todos saltaron,tout le monde a sauté,alle sprangen
+236,everybody saw it,everybody saw it,todos lo vieron,tout le monde l'a vu,alle haben es gesehen
+237,everybody smiled,everybody smiled,todos sonrieron,tout le monde a souri,alle lächelten
+238,everybody stayed,everybody stayed,todos se quedaron,tout le monde est resté,alle sind geblieben
+239,everybody waited,everybody waited,todos esperaron,tout le monde a attendu,alle warteten
+240,everybody's dead,everybody s dead,todos están muertos,tout le monde est mort,alle sind tot
+241,everybody's here,everybody s here,todos están aquí,tout le monde est ici,alle sind hier
+242,everybody's home,everybody s home,todos están en casa,tout le monde est à la maison,Jeder ist zu Hause
+243,everybody's safe,everybody s safe,todos están a salvo,tout le monde est en sécurité,jeder ist sicher
+244,everyone changes,everyone changes,todo el mundo cambia,tout le monde change,jeder ändert sich
+245,everyone cheered,everyone cheered,todos vitorearon,tout le monde a applaudi,alle jubelten
+246,everyone escaped,everyone escaped,todos escaparon,tout le monde s'est échappé,alle entkamen
+247,everyone had fun,everyone had fun,todos se divirtieron,tout le monde s'est amusé,alle hatten spaß
+248,everyone is here,everyone is here,todos estan aqui,tout le monde est ici,alle sind hier
+249,everyone laughed,everyone laughed,todos rieron,tout le monde a rigolé,alle lachten
+250,everyone noticed,everyone noticed,todos se dieron cuenta,tout le monde a remarqué,alle haben es gemerkt
+251,everyone said no,everyone said no,todos dijeron que no,tout le monde a dit non,alle sagten nein
+252,everyone's lying,everyone s lying,todo el mundo está mintiendo,tout le monde ment,alle lügen
+253,everyone's there,everyone s there,todos están ahí,tout le monde est là,alle sind da
+254,everything is ok,everything is ok,todo está bien,tout va bien,alles ist ok
+255,evil always wins,evil always wins,el mal siempre gana,le mal gagne toujours,das Böse gewinnt immer
+256,explain it to me,explain it to me,Explícamelo,Explique le moi,erklären Sie es mir
+257,family is family,family is family,la familia es familia,la famille c'est la famille,Familie ist Familie
+258,feed the hamster,feed the hamster,alimentar al hámster,nourrir le hamster,füttere den Hamster
+259,fight like a man,fight like a man,lucha como un hombre,se battre comme un homme,Kämpfe wie ein Mann
+260,follow my advice,follow my advice,sigue mi consejo,suivez mes conseils,folge meinem Rat
+261,follow the rules,follow the rules,sigue las reglas,suis les règles,beachte die Regeln
+262,food costs money,food costs money,la comida cuesta dinero,la nourriture coûte de l'argent,Essen kostet Geld
+263,for what purpose,for what purpose,Con qué propósito,dans quel but,für welchen Zweck
+264,forget about her,forget about her,Olvídate de ella,oublie-la,Vergiss sie
+265,gardening is fun,gardening is fun,la jardinería es divertida,le jardinage est un plaisir,Gartenarbeit macht Spaß
+266,get away from me,get away from me,alejarse de mí,éloigne-toi de moi,geh weg von mir
+267,get back to work,get back to work,volver al trabajo,retourne travailler,zurück an die Arbeit
+268,get into the car,get into the car,entrar en el coche,entre dans la voiture,ins Auto steigen
+269,get on the horse,get on the horse,sube al caballo,monter sur le cheval,aufs Pferd steigen
+270,get on your bike,get on your bike,súbete a tu bicicleta,monte sur ton vélo,steig auf dein Fahrrad
+271,get on your feet,get on your feet,ponte de pie,mets-toi debout,auf die Beine kommen
+272,get out of there,get out of there,sal de ahí,sors d'ici,Komm da raus
+273,get to the point,get to the point,llegar al punto,arriver au point,komm zum Punkt
+274,give him a break,give him a break,Dale un descanso,donnez-lui une pause,gib ihm eine Pause
+275,give me a chance,give me a chance,Dame una oportunidad,donnes moi une chance,gib mir eine Chance
+276,give me a hammer,give me a hammer,dame un martillo,donne moi un marteau,Gib mir einen Hammer
+277,give me a minute,give me a minute,Dame un minuto,Donne moi une minute,gib mir eine Minute
+278,give me a reason,give me a reason,Dame una razón,Donne moi une raison,gib mir einen Grund
+279,give me a second,give me a second,Dame un segundo,donne-moi une seconde,gib mir eine Sekunde
+280,give me a tissue,give me a tissue,dame un pañuelo,donne moi un mouchoir,Gib mir ein Taschentuch
+281,give me my drink,give me my drink,dame mi bebida,donne moi mon verre,Gib mir mein Getränk
+282,give me the ball,give me the ball,Dame el balón,donne moi la balle,Gib mir den Ball
+283,give me the book,give me the book,Dame el libro,donne-moi le livre,Gib mir das Buch
+284,give me the wine,give me the wine,dame el vino,donne moi le vin,Gib mir den Wein
+285,give me your arm,give me your arm,dame tu brazo,donne moi ton bras,Gib mir deinen Arm
+286,give me your gun,give me your gun,dame tu arma,donne moi ton arme,Gib mir deine Waffe
+287,give them to her,give them to her,dárselos a ella,donne les lui,gib sie ihr
+288,give them to him,give them to him,dárselos a él,donne les lui,gib sie ihm
+289,give us a chance,give us a chance,Danos una oportunidad,donne nous une chance,Gib uns eine Chance
+290,give us a minute,give us a minute,danos un minuto,donne nous une minute,Gib uns eine Minute
+291,give us a moment,give us a moment,danos un momento,donne nous un instant,geben Sie uns einen Moment
+292,give us a second,give us a second,danos un segundo,donne nous une seconde,gib uns eine Sekunde
+293,go back to sleep,go back to sleep,vuelve a dormir,retourne te coucher,geh wieder schlafen
+294,go have some fun,go have some fun,ve a divertirte,allez vous amuser,geh und hab spass
+295,go on without me,go on without me,ve sin mi,continuer sans moi,mach ohne mich weiter
+296,go play with tom,go play with tom,ve a jugar con tom,va jouer avec tom,Geh mit Tom spielen
+297,go to the barber,go to the barber,ir al peluquero,aller chez le coiffeur,geh zum friseur
+298,go up the stairs,go up the stairs,sube las escaleras,monter les escaliers,geh nach oben
+299,go when you want,go when you want,ve cuando quieras,va quand tu veux,geh wann du willst
+300,go with the flow,go with the flow,dejarse llevar,suivre le courant,geh mit dem Strom
+301,good luck to you,good luck to you,buena suerte para ti,bonne chance à toi,Viel Glück
+302,grow up a little,grow up a little,crecer un poco,grandir un peu,etwas erwachsen werden
+303,hand me a tissue,hand me a tissue,dame un pañuelo,donne moi un mouchoir,gib mir ein Taschentuch
+304,hang on a minute,hang on a minute,Espera un minuto,attends une minute,Moment mal
+305,hang on a second,hang on a second,espera un segundo,attends une seconde,warte eine Sekunde
+306,have a croissant,have a croissant,tener un croissant,prendre un croissant,ein Croissant haben
+307,have a good time,have a good time,Que la pases bien,Amusez-vous bien,Hab viel Spaß
+308,have a nice time,have a nice time,Pasar un buen rato,Passez un bon moment,Viel Spaß
+309,have a nice trip,have a nice trip,Buen viaje,bon voyage,Gute Reise
+310,have a safe trip,have a safe trip,ten un viaje seguro,bon voyage,komme gut nach Hause
+311,have some coffee,have some coffee,toma algo de café,Prends un café,einen Kaffee trinken
+312,have you decided,have you decided,has decidido,as-tu décidé,hast du dich entschieden
+313,have you met her,have you met her,¿la has conocido?,l'as-tu rencontrée,hast du sie getroffen
+314,have you ordered,have you ordered,has pedido,avez-vous commandé,hast du bestellt
+315,he ate all of it,he ate all of it,se lo comió todo,il a tout mangé,er hat alles gegessen
+316,he became a hobo,he became a hobo,se convirtió en un vagabundo,il est devenu clochard,er wurde ein Landstreicher
+317,he became famous,he became famous,Él se volvió famoso,il est devenu célèbre,er wurde berühmt
+318,he began running,he began running,comenzó a correr,il a commencé à courir,er fing an zu rennen
+319,he began to sing,he began to sing,empezó a cantar,il a commencé à chanter,er fing an zu singen
+320,he blew the deal,he blew the deal,él arruinó el trato,il a raté l'affaire,er hat den Deal vermasselt
+321,he broke his arm,he broke his arm,se rompió el brazo,Il s'est cassé son bras,Er hat sich den Arm gebrochen
+322,he broke the law,he broke the law,violó la ley,il a enfreint la loi,er hat das Gesetz gebrochen
+323,he can read well,he can read well,él puede leer bien,il sait bien lire,er kann gut lesen
+324,he can swim fast,he can swim fast,el puede nadar rapido,il sait nager vite,er kann schnell schwimmen
+325,he can swim well,he can swim well,él puede nadar bien,il sait bien nager,er kann gut schwimmen
+326,he can't do that,he cannot do that,el no puede hacer eso,il ne peut pas faire ça,das kann er nicht
+327,he can't read it,he cannot read it,no puede leerlo,il ne peut pas le lire,er kann es nicht lesen
+328,he caught a cold,he caught a cold,se resfrió,il a pris froid,Er hat sich erkältet
+329,he cheated on me,he cheated on me,él me engañó,il m'a trompé,er hat mich betrogen
+330,he cleaned it up,he cleaned it up,lo limpió,il l'a nettoyé,er hat es aufgeräumt
+331,he comes at noon,he comes at noon,el viene al mediodia,il vient à midi,er kommt mittags
+332,he cried for joy,he cried for joy,el lloro de alegria,il a pleuré de joie,er weinte vor Freude
+333,he died recently,he died recently,murió recientemente,il est mort récemment,er ist vor kurzem gestorben
+334,he died suddenly,he died suddenly,murió de repente,il est mort subitement,er starb plötzlich
+335,he doesn't sleep,he does not sleep,el no duerme,il ne dort pas,er schläft nicht
+336,he eats too much,he eats too much,el come demasiado,il mange trop,er isst zu viel
+337,he fed the horse,he fed the horse,le dio de comer al caballo,il a nourri le cheval,er fütterte das Pferd
+338,he fell backward,he fell backward,se cayó hacia atrás,il est tombé à la renverse,er fiel nach hinten
+339,he fixed the net,he fixed the net,arregló la red,il a réparé le filet,Er hat das Netz repariert
+340,he flew to paris,he flew to paris,voló a París,il s'est envolé pour paris,er flog nach paris
+341,he found my bike,he found my bike,encontró mi bicicleta,il a trouvé mon vélo,Er hat mein Fahrrad gefunden
+342,he gave a speech,he gave a speech,dio un discurso,il a prononcé un discours,er hielt eine Rede
+343,he gave it to me,he gave it to me,él me lo dio,il me l'a donné,er gab es mir
+344,he gave me a hug,he gave me a hug,me dio un abrazo,il m'a fait un câlin,er umarmte mich
+345,he gets up early,he gets up early,él se levanta temprano,il se lève tôt,er steht früh auf
+346,he got a new job,he got a new job,consiguió un nuevo trabajo,il a un nouveau travail,er hat einen neuen job bekommen
+347,he had few teeth,he had few teeth,tenia pocos dientes,il avait peu de dents,er hatte wenige Zähne
+348,he had gray hair,he had gray hair,tenia canas,il avait les cheveux gris,er hatte graue haare
+349,he had long hair,he had long hair,el tenia el pelo largo,il avait les cheveux longs,er hatte lange haare
+350,he has a picasso,he has a picasso,el tiene un picasso,il a un picasso,er hat einen picasso
+351,he has a bicycle,he has a bicycle,el tiene una bicicleta,il a un vélo,Er hat ein Fahrrad
+352,he has been busy,he has been busy,ha estado ocupado,il a été occupé,er war beschäftigt
+353,he has big hands,he has big hands,el tiene manos grandes,il a de grandes mains,Er hat große Hände
+354,he has long legs,he has long legs,el tiene piernas largas,il a de longues jambes,er hat lange beine
+355,he has no choice,he has no choice,el no tiene opcion,il n'a pas le choix,er hat keine Wahl
+356,he has no hat on,he has no hat on,no tiene sombrero,il n'a pas de chapeau,er hat keinen Hut auf
+357,he has the joker,he has the joker,el tiene el bromista,il a le joker,er hat den Joker
+358,he hates carrots,he hates carrots,odia las zanahorias,il déteste les carottes,er hasst Karotten
+359,he hates himself,he hates himself,se odia a si mismo,il se déteste,er hasst sich
+360,he hates running,he hates running,odia correr,il déteste courir,er hasst rennen
+361,he hates spiders,he hates spiders,odia las arañas,il déteste les araignées,er hasst Spinnen
+362,he heard a noise,he heard a noise,él escuchó un sonido,il a entendu un bruit,Er hörte ein Geräusch
+363,he heard a shout,he heard a shout,escuchó un grito,il a entendu un cri,er hörte einen Schrei
+364,he hung up on me,he hung up on me,me colgó,il m'a raccroché au nez,er hat bei mir aufgelegt
+365,he is a kind boy,he is a kind boy,el es un chico amable,c'est un gentil garçon,Er ist ein freundlicher Junge
+366,he is an acrobat,he is an acrobat,el es un acróbata,c'est un acrobate,er ist ein Akrobat
+367,he is dead drunk,he is dead drunk,esta muerto de borracho,il est ivre mort,er ist tot betrunken
+368,he is distracted,he is distracted,el esta distraído,il est distrait,er ist abgelenkt
+369,he is doing well,he is doing well,Él lo está haciendo bien,il se porte bien,Ihm geht es gut
+370,he is her friend,he is her friend,el es su amigo,il est son ami,er ist ihr Freund
+371,he is in pajamas,he is in pajamas,el esta en pijama,il est en pyjama,er ist im pyjama
+372,he is in trouble,he is in trouble,él está en problemas,il est en difficulté,er steckt in Schwierigkeiten
+373,he is just a kid,he is just a kid,el es solo un niño,ce n'est qu'un enfant,er ist nur ein Kind
+374,he is my brother,he is my brother,él es mi hermano,c'est mon frère,er ist mein Bruder
+375,he is my teacher,he is my teacher,el es mi profesor,il est mon professeur,er ist mein Lehrer
+376,he is never lazy,he is never lazy,el nunca es perezoso,il n'est jamais paresseux,er ist nie faul
+377,he is not stupid,he is not stupid,el no es tonto,il n'est pas stupide,er ist nicht dumm
+378,he is photogenic,he is photogenic,el es fotogenico,il est photogénique,er ist fotogen
+379,he is still here,he is still here,él todavía está aquí,il est toujours là,er ist immer noch hier
+380,he is very angry,he is very angry,él está muy molesto,il est très en colère,Er ist sehr wütend
+381,he is very brave,he is very brave,el es muy valiente,il est très courageux,er ist sehr mutig
+382,he is very young,he is very young,él es muy joven,il est très jeune,er ist sehr jung
+383,he is well-liked,he is well liked,él es muy querido,il est bien aimé,er ist sehr beliebt
+384,he isn't at home,he is not at home,él no está en casa,il n'est pas à la maison,er ist nicht zu Hause
+385,he isn't married,he is not married,el no esta casado,il n'est pas marié,er ist nicht verheiratet
+386,he isn't perfect,he is not perfect,el no es perfecto,il n'est pas parfait,er ist nicht perfekt
+387,he just got home,he just got home,acaba de llegar a casa,il vient de rentrer,er ist gerade nach Hause gekommen
+388,he keeps a diary,he keeps a diary,el lleva un diario,il tient un journal,er führt ein tagebuch
+389,he kept his word,he kept his word,cumplió su palabra,il a tenu parole,er hat sein Wort gehalten
+390,he knows his job,he knows his job,él sabe su trabajo,il connait son boulot,er kennt seinen Job
+391,he knows my wife,he knows my wife,el conoce a mi esposa,il connait ma femme,Er kennt meine Frau
+392,he laughed at me,he laughed at me,se rio de mi,il s'est moqué de moi,er lachte mich aus
+393,he left after me,he left after me,se fue despues de mi,il est parti après moi,er ist nach mir gegangen
+394,he left his wife,he left his wife,dejó a su esposa,il a quitté sa femme,er hat seine frau verlassen
+395,he left just now,he left just now,se fue hace un momento,il est parti tout à l'heure,er ist gerade gegangen
+396,he likes animals,he likes animals,le gustan los animales,il aime les animaux,er mag Tiere
+397,he likes fishing,he likes fishing,le gusta pescar,il aime la pêche,er angelt gerne
+398,he likes hunting,he likes hunting,le gusta cazar,il aime la chasse,er jagt gern
+399,he likes oranges,he likes oranges,le gustan las naranjas,il aime les oranges,er mag Orangen
+400,he likes to hunt,he likes to hunt,le gusta cazar,il aime chasser,er jagt gerne
+401,he looked around,he looked around,miró a su alrededor,il regarda autour de,er hat sich umgesehen
+402,he looks healthy,he looks healthy,se ve saludable,il a l'air en bonne santé,er sieht gesund aus
+403,he loves animals,he loves animals,el ama a los animales,il aime les animaux,er liebt Tiere
+404,he loves singing,he loves singing,le encanta cantar,il aime chanter,er liebt es zu singen
+405,he made me do it,he made me do it,me hizo hacerlo,il m'a fait faire,er hat mich dazu gebracht
+406,he made no reply,he made no reply,no respondió,il n'a pas répondu,er antwortete nicht
+407,he meant no harm,he meant no harm,no quiso hacer daño,il ne voulait pas de mal,er wollte nichts Böses
+408,he moves quickly,he moves quickly,se mueve rapido,il bouge vite,er bewegt sich schnell
+409,he must be tired,he must be tired,debe estar cansado,il doit être fatigué,er muss müde sein
+410,he must love you,he must love you,el debe amarte,il doit t'aimer,er muss dich lieben
+411,he must not live,he must not live,el no debe vivir,il ne doit pas vivre,er darf nicht leben
+412,he needs a towel,he needs a towel,el necesita una toalla,il a besoin d'une serviette,Er braucht ein Handtuch
+413,he painted a dog,he painted a dog,pintó un perro,il a peint un chien,Er malte einen Hund
+414,he played tennis,he played tennis,el jugaba al tenis,il a joué au tennis,er spielte Tennis
+415,he ran into debt,he ran into debt,se endeudó,il s'est endetté,er hat sich verschuldet
+416,he ratted us out,he ratted us out,nos delató,il nous a balancé,er hat uns verpfiffen
+417,he remained dumb,he remained dumb,se quedó mudo,il est resté muet,er blieb stumm
+418,he retired at 65,he retired at 65,se jubiló a los 65,il a pris sa retraite à 65 ans,er ging mit 65 in den ruhestand
+419,he saved my life,he saved my life,él me salvó la vida,il m'a sauvé la vie,er rettete mein Leben
+420,he scares easily,he scares easily,se asusta facilmente,il fait peur facilement,er erschrickt leicht
+421,he shall have it,he shall have it,él lo tendrá,il l'aura,er soll es haben
+422,he shares a room,he shares a room,el comparte una habitacion,il partage une chambre,Er teilt sich ein Zimmer
+423,he shut the door,he shut the door,cerró la puerta,il a fermé la porte,er schloss die Tür
+424,he slept all day,he slept all day,durmió todo el día,il a dormi toute la journée,er hat den ganzen Tag geschlafen
+425,he slept an hour,he slept an hour,durmió una hora,il a dormi une heure,Er hat eine Stunde geschlafen
+426,he slept soundly,he slept soundly,durmió profundamente,il a bien dormi,er hat fest geschlafen
+427,he speaks arabic,he speaks arabic,él habla árabe,il parle arabe,er spricht arabisch
+428,he speaks french,he speaks french,él habla francés,il parle français,Er spricht französisch
+429,he told everyone,he told everyone,les dijo a todos,il a dit à tout le monde,sagte er allen
+430,he took his book,he took his book,tomó su libro,il a pris son livre,er nahm sein Buch
+431,he took his time,he took his time,se tomó su tiempo,il a pris son temps,er hat sich zeit genommen
+432,he turned around,he turned around,dio la vuelta,il se retourna,er drehte sich um
+433,he used his head,he used his head,usó su cabeza,il a utilisé sa tête,er benutzte seinen Kopf
+434,he used to drink,he used to drink,el solia beber,il buvait,er hat früher getrunken
+435,he wants to come,he wants to come,el quiere venir,il veut venir,er will kommen
+436,he was acquitted,he was acquitted,fue absuelto,il a été acquitté,er wurde freigesprochen
+437,he was all wrong,he was all wrong,estaba todo equivocado,il avait tout faux,er war ganz falsch
+438,he was born rich,he was born rich,nació rico,il est né riche,er wurde reich geboren
+439,"he was deaf, too",he was deaf  too,el tambien era sordo,il était sourd aussi,er war auch taub
+440,he was impressed,he was impressed,estaba impresionado,il a été impressionné,er war beeindruckt
+441,he was in france,he was in france,el estaba en francia,il était en france,er war in frankreich
+442,he was intrigued,he was intrigued,estaba intrigado,il était intrigué,er war fasziniert
+443,he was tenacious,he was tenacious,el era tenaz,il était tenace,er war hartnäckig
+444,he was very poor,he was very poor,el era muy pobre,il était très pauvre,er war sehr arm
+445,he wears glasses,he wears glasses,el USA anteojos,Il porte des lunettes,er trägt eine Brille
+446,he wears pajamas,he wears pajamas,lleva pijama,il porte un pyjama,er trägt einen pyjama
+447,he went far away,he went far away,se fue lejos,il est parti loin,er ging weit weg
+448,he went shopping,he went shopping,se fue de compras,il est allé faire du shopping,er ging einkaufen
+449,he will be ready,he will be ready,él estará listo,il sera prêt,er wird bereit sein
+450,he won't make it,he will not make it,él no lo logrará,il n'y arrivera pas,er wird es nicht schaffen
+451,he works sundays,he works sundays,el trabaja los domingos,il travaille le dimanche,er arbeitet sonntags
+452,he writes arabic,he writes arabic,él escribe árabe,il écrit l'arabe,er schreibt arabisch
+453,he'll understand,he will understand,él entenderá,il comprendra,er wird es verstehen
+454,he's a bartender,he is a bartender,el es un cantinero,il est barman,Er ist Barkeeper
+455,he's a biologist,he is a biologist,el es biólogo,c'est un biologiste,er ist Biologe
+456,he's a bit drunk,he is a bit drunk,esta un poco borracho,il est un peu ivre,er ist ein bisschen betrunken
+457,he's a bit naive,he is a bit naive,el es un poco ingenuo,il est un peu naïf,er ist ein bisschen naiv
+458,he's a bit tipsy,he is a bit tipsy,el esta un poco borracho,il est un peu pompette,er ist etwas beschwipst
+459,he's a cat lover,he is a cat lover,el es un amante de los gatos,c'est un amoureux des chats,er ist ein Katzenliebhaber
+460,he's a gentleman,he is a gentleman,el es un caballero,c'est un gentleman,er ist ein herr
+461,he's a good liar,he is a good liar,es un buen mentiroso,c'est un bon menteur,er ist ein guter Lügner
+462,he's a grown man,he is a grown man,el es un hombre adulto,c'est un adulte,er ist ein erwachsener mann
+463,he's a historian,he is a historian,el es un historiador,c'est un historien,er ist Historiker
+464,he's a nonsmoker,he is a nonsmoker,el es un no fumador,il est non fumeur,er ist Nichtraucher
+465,he's a sophomore,he is a sophomore,él es un estudiante de segundo año,il est en deuxième année,er ist ein Student im zweiten Jahr
+466,he's a sweet guy,he is a sweet guy,el es un chico dulce,c'est un gars adorable,er ist ein süßer Kerl
+467,he's about to go,he is about to go,él está a punto de irse,il est sur le point de partir,er ist dabei zu gehen
+468,he's at her side,he is at her side,el esta a su lado,il est à ses côtés,er ist an ihrer Seite
+469,he's getting old,he is getting old,el esta envejeciendo,il vieillit,er wird alt
+470,he's got the flu,he is got the flu,el tiene gripe,il a la grippe,er hat die grippe
+471,he's here for me,he is here for me,él está aquí para mí,il est là pour moi,er ist für mich da
+472,he's in my class,he is in my class,el esta en mi clase,il est dans ma classe,er ist in meiner klasse
+473,he's intelligent,he is intelligent,él es inteligente,il est intelligent,er ist intelligent
+474,he's just a liar,he is just a liar,el es solo un mentiroso,ce n'est qu'un menteur,er ist nur ein Lügner
+475,he's kind of shy,he is kind of shy,el es un poco timido,il est un peu timide,er ist etwas schüchtern
+476,he's love struck,he is love struck,el esta enamorado,il est frappé d'amour,er ist verliebt
+477,he's new in town,he is new in town,el es nuevo en la ciudad,il est nouveau en ville,er ist neu in der stadt
+478,he's not at home,he is not at home,él no está en casa,il n'est pas à la maison,er ist nicht zu Hause
+479,he's not like us,he is not like us,el no es como nosotros,il n'est pas comme nous,er ist nicht wie wir
+480,he's not married,he is not married,el no esta casado,il n'est pas marié,er ist nicht verheiratet
+481,he's not my type,he is not my type,el no es mi tipo,ce n'est pas mon genre,er ist nicht mein typ
+482,he's not perfect,he is not perfect,el no es perfecto,il n'est pas parfait,er ist nicht perfekt
+483,he's not serious,he is not serious,el no es serio,il n'est pas sérieux,er meint es nicht ernst
+484,he's open-minded,he is open minded,el es de mente abierta,il est ouvert d'esprit,er ist aufgeschlossen
+485,he's out of town,he is out of town,él está fuera de la ciudad,il est hors de la ville,er ist verreist
+486,he's ready to go,he is ready to go,él está listo para ir,il est prêt à partir,er ist bereit zu gehen
+487,he's still alive,he is still alive,sigue vivo,il est toujours vivant,er lebt noch
+488,he's such a jerk,he is such a jerk,él es un idiota,il est tellement con,er ist so ein Idiot
+489,he's unconscious,he is unconscious,Él está inconsciente,Il est inconscient,Er ist bewusstlos
+490,he's watching me,he is watching me,el me esta mirando,il me regarde,er beobachtet mich
+491,he's your father,he is your father,El es tu Padre,c'est ton père,er ist dein Vater
+492,he's your friend,he is your friend,él es tu amigo,il est ton ami,Er ist dein Freund
+493,heaven knows why,heaven knows why,Dios sabe por qué,Dieu sait pourquoi,der himmel weiß warum
+494,help me out here,help me out here,ayudame aqui,aidez moi ici,hilf mir hier raus
+495,her hair is long,her hair is long,su pelo es largo,ses cheveux sont longs,ihr Haar ist lang
+496,here is the bill,here is the bill,aquí está la factura,voici la facture,Hier ist die Rechnung
+497,here is your bag,here is your bag,aquí está tu bolso,voici votre sac,Hier ist deine Tasche
+498,here is your dog,here is your dog,aquí está tu perro,voici ton chien,Hier ist dein Hund
+499,here is your key,here is your key,aquí está tu llave,Voici votre clé,Hier ist dein Schlüssel
+500,here's my chance,here s my chance,esta es mi oportunidad,voici ma chance,Hier ist meine Chance
+501,here's my ticket,here s my ticket,aquí está mi boleto,voici mon billet,Hier ist mein Ticket
+502,here's your beer,here s your beer,aquí está tu cerveza,voici ta bière,Hier ist dein Bier
+503,here's your desk,here s your desk,aquí está tu escritorio,voici votre bureau,Hier ist dein Schreibtisch
+504,here's your milk,here s your milk,aquí está tu leche,voici votre lait,Hier ist deine Milch
+505,"here, drink this",here  drink this,bebe esto,ici bois ça,hier trink das
+506,"hey, what's this",hey  what is this,oye que es esto,Hé qu'est-ce que c'est,hallo was ist das
+507,"hey, where's tom",hey  where is tom,hola donde esta tom,Hé où est Tom,"Hey, wo ist Tom"
+508,hi i'm new here,hi i am new here,hola soy nuevo aqui,salut je suis nouveau ici,hallo ich bin neu hier
+509,hold on a minute,hold on a minute,espera un minuto,attendez une minute,Warte eine Minute
+510,horses eat grass,horses eat grass,los caballos comen hierba,les chevaux mangent de l'herbe,Pferde fressen Gras
+511,how about a beer,how about a beer,que tal una cerveza,que diriez-vous d'une bière,wie wäre es mit einem bier
+512,how are the kids,how are the kids,como son los niños,Comment vont les enfants,wie sind die Kinder
+513,how cool is this,how cool is this,que genial es esto,c'est cool,wie cool ist das
+514,how do i do that,how do i do that,Cómo puedo hacer eso,comment je fais ça,wie mache ich das
+515,how do i do this,how do i do this,Cómo hago esto,Comment puis-je faire cela,Wie mache ich das
+516,how do you do it,how do you do it,Cómo lo haces,comment faites-vous,wie machst du das
+517,how does it feel,how does it feel,Cómo se siente,qu'est-ce que ça fait,wie fühlt es sich an
+518,how does it look,how does it look,Cómo se ve,de quoi ça a l'air,wie sieht es aus
+519,how does it work,how does it work,como funciona,Comment ça marche,wie funktioniert es
+520,how embarrassing,how embarrassing,que embarazoso,que c'est embarrassant,wie peinlich
+521,how good are you,how good are you,qué tan bueno es usted,à quel point êtes-vous bon,Wie gut bist du
+522,how is the salad,how is the salad,Como está la ensalada,comment est la salade,Wie ist der Salat
+523,how is your cold,how is your cold,como esta tu resfriado,comment est ton rhume,wie ist deine erkältung
+524,how is your wife,how is your wife,Cómo está su esposa,Comment va votre femme,Wie geht es deiner Frau
+525,how lucky we are,how lucky we are,que afortunados somos,quelle chance nous avons,wie glücklich wir sind
+526,how much is that,how much is that,cuanto es eso,combien est-ce,wie viel ist das
+527,how much is this,how much is this,Cuánto cuesta este,combien ça coûte,wieviel kostet das
+528,how strong he is,how strong he is,que fuerte es,à quel point il est fort,wie stark er ist
+529,how stupid he is,how stupid he is,que estupido es,comme il est stupide,wie dumm er ist
+530,how stupid of me,how stupid of me,que estúpido de mi parte,Qu'est ce que c'est stupide de ma part,wie dumm von mir
+531,how tall are you,how tall are you,cuánto mides,Quelle est votre taille,Wie groß bist du
+532,how tall you are,how tall you are,su estatura,quelle est votre taille,wie groß bist du
+533,how unlucky i am,how unlucky i am,que mala suerte tengo,à quel point je suis malchanceux,wie unglücklich ich bin
+534,how very curious,how very curious,que curioso,comme c'est très curieux,wie sehr neugierig
+535,how was the food,how was the food,Cómo estuvo la comida,comment était la nourriture,Wie war das Essen
+536,how was the game,how was the game,como fue el juego,comment était le jeu,Wie war das Spiel
+537,how was your day,how was your day,cómo estuvo tu día,comment s'est passée ta journée,wie war dein Tag
+538,how was your nap,how was your nap,como estuvo tu siesta,comment était ta sieste,Wie war dein Nickerchen?
+539,how you've grown,how you have grown,como has crecido,comment tu as grandi,wie du gewachsen bist
+540,how're you doing,how re you doing,como estas,comment vas-tu,Wie geht es Ihnen
+541,how's that again,how is that again,como es eso de nuevo,comment est-ce encore,wie ist das nochmal
+542,how's the family,how is the family,como está la familia,comment va la famille,wie geht es der Familie
+543,"hurry up, please",hurry up  please,apúrate por favor,dépêche-toi s'il te plaît,Beeil dich bitte
+544,i abhor violence,i abhor violence,aborrezco la violencia,je déteste la violence,Ich verabscheue Gewalt
+545,i agree with him,i agree with him,estoy de acuerdo con él,je suis d'accord avec lui,Ich stimme ihm zu
+546,i agree with you,i agree with you,Estoy de acuerdo contigo,je suis d'accord avec toi,Ich stimme mit Ihnen ein
+547,i agreed to stay,i agreed to stay,acepté quedarme,j'ai accepté de rester,Ich habe zugestimmt zu bleiben
+548,i almost drowned,i almost drowned,casi me ahogo,j'ai failli me noyer,ich bin fast ertrunken
+549,i almost sneezed,i almost sneezed,casi estornudo,j'ai presque éternué,ich hätte fast niesen müssen
+550,i already did it,i already did it,ya lo hice,Je l'ai déjà fait,ich habe es schon getan
+551,i always said no,i always said no,siempre dije que no,j'ai toujours dit non,Ich habe immer nein gesagt
+552,i am a bit drunk,i am a bit drunk,estoy un poco borracho,je suis un peu ivre,Ich bin ein bisschen betrunken
+553,i am a foreigner,i am a foreigner,soy un extranjero,Je suis étranger,ich bin ein Ausländer
+554,i am a housewife,i am a housewife,Soy ama de casa,Je suis une femme au foyer,Ich bin eine Hausfrau
+555,i am a professor,i am a professor,Soy un profesor,je suis professeur,Ich bin Professor
+556,i am cooking now,i am cooking now,estoy cocinando ahora,je suis en train de cuisiner,Ich koche jetzt
+557,i am dumbfounded,i am dumbfounded,estoy estupefacto,je suis abasourdi,ich bin sprachlos
+558,i am from brazil,i am from brazil,Soy de Brasil,je viens du Brésil,ich bin aus Brasilien
+559,i am from france,i am from france,soy de Francia,je viens de France,ich komme aus Frankreich
+560,i am from russia,i am from russia,Soy de Rusia,Je viens de Russie,Ich komme aus Russland
+561,i am frying fish,i am frying fish,estoy friendo pescado,je fais frire du poisson,Ich brate Fisch
+562,i am not a witch,i am not a witch,No soy una bruja,Je ne suis pas une sorcière,Ich bin keine Hexe
+563,i am not kidding,i am not kidding,No estoy bromeando,Je ne plaisante pas,ich mache keinen Spaß
+564,i am on duty now,i am on duty now,estoy de servicio ahora,je suis de service maintenant,Ich bin jetzt im Dienst
+565,i am only joking,i am only joking,yo sólo estoy bromeando,Je suis seulement en train de plaisanter,ich scherze nur
+566,i am out of time,i am out of time,estoy fuera de tiempo,je n'ai plus de temps,Ich habe keine Zeit mehr
+567,i am out of work,i am out of work,estoy sin trabajo,je suis sans travail,Ich bin arbeitslos
+568,i am paid weekly,i am paid weekly,me pagan semanalmente,je suis payé à la semaine,Ich werde wöchentlich bezahlt
+569,i am pretty sure,i am pretty sure,estoy bastante seguro,je suis assez sûr,ich bin ziemlich sicher
+570,i am truly sorry,i am truly sorry,Lo siento de verdad,Je suis vraiment désolé,es tut mir wirklich leid
+571,i am very hungry,i am very hungry,estoy muy hambriento,J'ai très faim,Ich bin sehr hungrig
+572,i appreciated it,i appreciated it,Lo agradezco,J'ai apprécié,Ich schätzte es
+573,i ate on the bus,i ate on the bus,comí en el autobús,j'ai mangé dans le bus,Ich habe im Bus gegessen
+574,i began to speak,i began to speak,comencé a hablar,j'ai commencé à parler,Ich fing an zu sprechen
+575,i began to sweat,i began to sweat,comencé a sudar,j'ai commencé à transpirer,ich fing an zu schwitzen
+576,i begin tomorrow,i begin tomorrow,empiezo mañana,je commence demain,ich fange morgen an
+577,i believe in god,i believe in god,Creo en Dios,je crois en Dieu,Ich glaube an Gott
+578,i believe in him,i believe in him,Yo creo en el,je crois en lui,Ich glaube an ihn
+579,i believe in you,i believe in you,creo en ti,je crois en toi,ich glaube an dich
+580,i bought a house,i bought a house,compré una casa,j'ai acheté une maison,Ich habe ein Haus gekauft
+581,i bought a watch,i bought a watch,compré un reloj,j'ai acheté une montre,Ich habe eine Uhr gekauft
+582,i bought bananas,i bought bananas,compré plátanos,j'ai acheté des bananes,Ich habe Bananen gekauft
+583,i bowed politely,i bowed politely,me incliné cortésmente,je me suis incliné poliment,Ich verbeugte mich höflich
+584,i brought a book,i brought a book,traje un libro,j'ai apporté un livre,Ich habe ein Buch mitgebracht
+585,i brought dinner,i brought dinner,traje la cena,j'ai apporté le dîner,Ich habe Abendessen mitgebracht
+586,i called earlier,i called earlier,llamé antes,j'ai appelé plus tôt,Ich habe vorhin angerufen
+587,i called him tom,i called him tom,lo llamé tom,je l'ai appelé tom,Ich habe ihn tom genannt
+588,i came yesterday,i came yesterday,vine ayer,Je suis venu hier,ich kam gestern
+589,i can replace it,i can replace it,puedo reemplazarlo,je peux le remplacer,ich kann es ersetzen
+590,i can reschedule,i can reschedule,puedo reprogramar,je peux reporter,ich kann umplanen
+591,i can't budge it,i cannot budge it,no puedo moverlo,je ne peux pas le bouger,ich kann es nicht fassen
+592,i can't come now,i cannot come now,no puedo ir ahora,je ne peux pas venir maintenant,Ich kann jetzt nicht kommen
+593,i can't complain,i cannot complain,No me puedo quejar,Je ne peux pas me plaindre,ich kann nicht klagen
+594,i can't eat meat,i cannot eat meat,no puedo comer carne,je ne peux pas manger de viande,Ich kann kein Fleisch essen
+595,i can't eat pork,i cannot eat pork,no puedo comer cerdo,je ne peux pas manger de porc,Ich kann kein Schweinefleisch essen
+596,i can't find tom,i cannot find tom,no puedo encontrar a tom,je ne trouve pas tom,Ich kann Tom nicht finden
+597,i can't fix this,i cannot fix this,no puedo arreglar esto,je ne peux pas réparer ça,Ich kann das nicht beheben
+598,i can't hear tom,i cannot hear tom,no puedo escuchar a tom,je ne peux pas entendre tom,Ich kann Tom nicht hören
+599,i can't join you,i cannot join you,no puedo unirme a ti,je ne peux pas te rejoindre,ich kann mich dir nicht anschließen
+600,i can't reach it,i cannot reach it,no puedo alcanzarlo,je ne peux pas l'atteindre,Ich kann es nicht erreichen
+601,i can't remember,i cannot remember,No puedo recordar,je me rappelle plus,ich kann mich nicht erinnern
+602,i can't save you,i cannot save you,no puedo salvarte,je ne peux pas te sauver,Ich kann dich nicht retten
+603,i can't see well,i cannot see well,No puedo ver bien,je ne vois pas bien,Ich kann nicht gut sehen
+604,i can't show you,i cannot show you,no puedo mostrarte,je ne peux pas te montrer,ich kann es dir nicht zeigen
+605,i can't stand up,i cannot stand up,no puedo ponerme de pie,Je ne peux pas me lever,Ich kann nicht aufstehen
+606,i can't stop tom,i cannot stop tom,no puedo detener a tom,je ne peux pas arrêter tom,Ich kann Tom nicht aufhalten
+607,i can't stop him,i cannot stop him,no puedo detenerlo,je ne peux pas l'arrêter,ich kann ihn nicht aufhalten
+608,i can't use that,i cannot use that,No puedo usar eso,je ne peux pas utiliser ça,ich kann das nicht verwenden
+609,i can't use this,i cannot use this,no puedo usar esto,je ne peux pas utiliser ça,ich kann das nicht verwenden
+610,i cannot whistle,i cannot whistle,no puedo silbar,je ne peux pas siffler,ich kann nicht pfeifen
+611,i caught a trout,i caught a trout,pesqué una trucha,j'ai attrapé une truite,Ich habe eine Forelle gefangen
+612,i caught the flu,i caught the flu,cogí la gripe,j'ai attrapé la grippe,Ich habe die Grippe erwischt
+613,i come every day,i come every day,vengo todos los dias,je viens tous les jours,Ich komme jeden Tag
+614,i complain a lot,i complain a lot,me quejo mucho,je me plains beaucoup,ich beschwere mich sehr
+615,i confiscated it,i confiscated it,lo confisqué,je l'ai confisqué,ich habe es beschlagnahmt
+616,i could kiss you,i could kiss you,Podria besarte,Je pourrais t'embrasser,Ich könnte dich küssen
+617,i could see that,i could see that,pude ver eso,je pouvais voir ça,das konnte ich sehen
+618,i could've cried,i could have cried,podría haber llorado,j'aurais pu pleurer,ich hätte heulen können
+619,i couldn't sleep,i could not sleep,no pude dormir,Je ne pouvais pas dormir,ich konnte nicht schlafen
+620,i couldn't speak,i could not speak,No podía hablar,je ne pouvais pas parler,ich konnte nicht sprechen
+621,i couldn't stand,i could not stand,no pude soportar,je ne pouvais pas supporter,ich konnte nicht stehen
+622,i deserve better,i deserve better,merezco algo mejor,Je mérite mieux,Ich verdiene Besseres
+623,i did a good job,i did a good job,hice un buen trabajo,j'ai fait du bon travail,Ich habe gute Arbeit geleistet
+624,i did everything,i did everything,yo hice todo,j'ai tout fait,Ich habe alles gemacht
+625,i did it already,i did it already,ya lo hice,je l'ai déjà fait,ich habe es schon gemacht
+626,i did it for him,i did it for him,lo hice por el,je l'ai fait pour lui,Ich habe es für ihn getan
+627,i did it for you,i did it for you,Lo hice por ti,je l'ai fait pour toi,Ich habe es für dich getan
+628,i did it quickly,i did it quickly,lo hice rapido,je l'ai fait rapidement,ich habe es schnell gemacht
+629,i did that a lot,i did that a lot,hice eso mucho,je l'ai fait beaucoup,das habe ich oft gemacht
+630,i did that today,i did that today,lo hice hoy,je l'ai fait aujourd'hui,das habe ich heute gemacht
+631,i didn't hear it,i did not hear it,no lo escuché,je ne l'ai pas entendu,Ich habe es nicht gehört
+632,i didn't like it,i did not like it,no me gusta,je n'ai pas aimé ça,ich mochte es nicht
+633,i didn't mean it,i did not mean it,No me refería a eso,je ne voulais pas dire ça,ich habe es nicht so gemeint
+634,i didn't see her,i did not see her,no la vi,je ne l'ai pas vue,Ich habe sie nicht gesehen
+635,i didn't see him,i did not see him,no lo ví,je ne l'ai pas vu,Ich sehe ihn nicht
+636,i didn't see you,i did not see you,no te ví,je ne t'ai pas vu,Ich habe dich nicht gesehen
+637,i didn't take it,i did not take it,no lo tomé,je ne l'ai pas pris,Ich habe es nicht genommen
+638,i dislike coffee,i dislike coffee,no me gusta el cafe,je n'aime pas le café,ich mag kaffee nicht
+639,i disregarded it,i disregarded it,lo ignoré,je l'ai ignoré,ich habe es vernachlässigt
+640,i do believe you,i do believe you,Te creo,je te crois,ich glaube dir
+641,i do have a plan,i do have a plan,tengo un plan,j'ai un plan,Ich habe einen Plan
+642,i don't allow it,i do not allow it,no lo permito,je ne le permets pas,ich erlaube es nicht
+643,i don't buy that,i do not buy that,no compro eso,je n'achète pas ça,ich kaufe das nicht
+644,i don't disagree,i do not disagree,No estoy en desacuerdo,je ne suis pas en désaccord,Ich bin nicht anderer Meinung
+645,i don't do drugs,i do not do drugs,yo no consumo drogas,je ne me drogue pas,Ich nehme keine Drogen
+646,i don't eat meat,i do not eat meat,no como carne,je ne mange pas de viande,Ich esse kein Fleisch
+647,i don't eat pork,i do not eat pork,no como chancho,Je ne mange pas de porc,Ich esse kein Schweinefleisch
+648,i don't envy you,i do not envy you,no te envídio,Je ne t'envie pas,ich beneide dich nicht
+649,i don't hate him,i do not hate him,no lo odio,je ne le déteste pas,ich hasse ihn nicht
+650,i don't hate you,i do not hate you,yo no te odio,je ne vous hais pas,Ich hasse dich nicht
+651,i don't have one,i do not have one,no tengo una,je n'en ai pas,Ich habe keinen
+652,i don't know her,i do not know her,no la conozco,je ne la connais pas,ich kenne sie nicht
+653,i don't know him,i do not know him,No lo conozco,je ne le connais pas,ich kenne ihn nicht
+654,i don't know why,i do not know why,No se por que,je ne sais pas pourquoi,Keine Ahnung warum
+655,i don't know yet,i do not know yet,No lo sé todavía,je ne sais pas encore,Ich weiß es noch nicht
+656,i don't know you,i do not know you,Yo no te conozco,Je ne te connais pas,I kenne dich nicht
+657,i don't like her,i do not like her,Ella no me gusta,je ne l'aime pas,ich mag sie nicht
+658,i don't like him,i do not like him,No me gusta él,je ne l'aime pas,ich mag ihn nicht
+659,i don't like tea,i do not like tea,no me gusta el te,je n'aime pas le thé,Ich mag keinen Tee
+660,i don't love her,i do not love her,yo no la amo,je ne l'aime pas,ich liebe sie nicht
+661,i don't mean you,i do not mean you,no me refiero a ti,je ne veux pas dire toi,ich meine nicht dich
+662,i don't need tom,i do not need tom,no necesito tom,je n'ai pas besoin de tom,Ich brauche Tom nicht
+663,i don't remember,i do not remember,No me acuerdo,je ne me souviens pas,ich erinnere mich nicht
+664,i don't think so,i do not think so,no lo creo,Je ne pense pas,ich glaube nicht
+665,i don't watch tv,i do not watch tv,yo no veo la television,Je ne regarde pas la télévision,Ich schaue kein Fernsehen
+666,i drank the wine,i drank the wine,bebí el vino,j'ai bu le vin,Ich habe den Wein getrunken
+667,"i drink tea, too",i drink tea  too,yo tambien bebo te,je bois du thé aussi,ich trinke auch tee
+668,i drink to relax,i drink to relax,bebo para relajarme,je bois pour me détendre,"Ich trinke, um mich zu entspannen"
+669,i drive a hybrid,i drive a hybrid,conduzco un híbrido,je conduis un hybride,Ich fahre einen Hybrid
+670,i eat everything,i eat everything,yo como de todo,Je mange de tout,Ich esse alles
+671,i enjoy swimming,i enjoy swimming,disfruto nadando,J'aime nager,Ich genieße Schwimmen
+672,i enjoyed myself,i enjoyed myself,lo disfruto yo mismo,j'ai apprécié,ich habe mich amüsiert
+673,i expected worse,i expected worse,esperaba algo peor,je m'attendais à pire,ich hatte schlimmeres erwartet
+674,i face a dilemma,i face a dilemma,me enfrento a un dilema,je suis face à un dilemme,ich stehe vor einem dilemma
+675,i fed the horses,i fed the horses,di de comer a los caballos,j'ai nourri les chevaux,Ich habe die Pferde gefüttert
+676,i feel all right,i feel all right,me siento bien,je me sens bien,Ich fühle mich gut
+677,i feel bad today,i feel bad today,Hoy me siento mal,je me sens mal aujourd'hui,heute fühle ich mich schlecht
+678,i feel empowered,i feel empowered,me siento empoderado,je me sens habilité,ich fühle mich ermächtigt
+679,i feel flattered,i feel flattered,me siento halagado,Je me sens flatté,ich fühle mich geschmeichelt
+680,i feel good here,i feel good here,me siento bien aquí,je me sens bien ici,ich fühle mich wohl hier
+681,i feel powerless,i feel powerless,me siento impotente,je me sens impuissant,ich fühle mich machtlos
+682,i feel protected,i feel protected,me siento protegido,je me sens protégé,ich fühle mich geschützt
+683,i feel refreshed,i feel refreshed,me siento renovado,je me sens rafraîchi,ich fühle mich erfrischt
+684,i feel safe here,i feel safe here,me siento seguro aquí,je me sens en sécurité ici,ich fühle mich hier sicher
+685,i feel so lonely,i feel so lonely,me siento tan sola,je me sens si seul,ich fühle mich so einsam
+686,i feel so pretty,i feel so pretty,me siento tan bonita,je me sens si jolie,Ich fühle mich so hübsch
+687,i feel so stupid,i feel so stupid,Me siento muy estupido,je me sens si stupide,Ich fühle mich so dumm
+688,i feel very cold,i feel very cold,Me siento muy frio,j'ai très froid,mir ist sehr kalt
+689,i feel very good,i feel very good,Me siento muy bien,Je me sens très bien,Ich fühle mich sehr gut
+690,i feel very sick,i feel very sick,me siento muy enfermo,Je me sens très malade,ich fühle mich sehr krank
+691,i feel wonderful,i feel wonderful,me siento maravillosa,je me sens merveilleux,ich fühle mich wundervoll
+692,i feel your pain,i feel your pain,siento tu dolor,Je ressens ta douleur,Ich fühle deinen Schmerz
+693,i felt depressed,i felt depressed,me sentí deprimido,je me sentais déprimé,Ich fühlte mich deprimiert
+694,i felt powerless,i felt powerless,me sentí impotente,je me sentais impuissant,ich fühlte mich machtlos
+695,i felt wonderful,i felt wonderful,me sentí maravilloso,je me sentais merveilleusement bien,Ich fühlte mich wunderbar
+696,i finished first,i finished first,terminé primero,j'ai fini premier,Ich war zuerst fertig
+697,i forgot the map,i forgot the map,olvidé el mapa,j'ai oublié la carte,Ich habe die Karte vergessen
+698,i found it there,i found it there,lo encontre ahi,je l'ai trouvé là,Ich habe es dort gefunden
+699,i found my shoes,i found my shoes,encontré mis zapatos,j'ai trouvé mes chaussures,Ich habe meine Schuhe gefunden
+700,i found somebody,i found somebody,encontré a alguien,j'ai trouvé quelqu'un,Ich habe jemanden gefunden
+701,i found the leak,i found the leak,encontré la fuga,j'ai trouvé la fuite,Ich habe das Leck gefunden
+702,i found your cap,i found your cap,encontré tu gorra,j'ai trouvé ta casquette,Ich habe deine Kappe gefunden
+703,i gave tom a hug,i gave tom a hug,le di un abrazo a tom,je lui ai fait un câlin,Ich habe Tom umarmt
+704,i gave it a shot,i gave it a shot,le di una oportunidad,j'ai essayé,Ich habe es versucht
+705,i gave up my job,i gave up my job,renuncié a mi trabajo,j'ai abandonné mon travail,Ich habe meinen Job aufgegeben
+706,i go to the park,i go to the park,voy al parque,je vais au parc,ich gehe in den Park
+707,i got goosebumps,i got goosebumps,Tengo la piel de gallina,j'ai la chair de poule,Ich habe Gänsehaut
+708,i got her a doll,i got her a doll,le compré una muñeca,je lui ai acheté une poupée,Ich habe ihr eine Puppe besorgt
+709,i got home first,i got home first,llegué a casa primero,je suis rentré le premier,Ich bin zuerst nach Hause gekommen
+710,i got paid today,i got paid today,me pagaron hoy,j'ai été payé aujourd'hui,Ich wurde heute bezahlt
+711,i got really mad,i got really mad,me enojé mucho,je suis devenu vraiment fou,ich wurde richtig sauer
+712,i guess we could,i guess we could,Supongo que podríamos,je suppose que nous pourrions,Ich denke wir könnten
+713,i had a good job,i had a good job,tenía un buen trabajo,j'ai eu un bon travail,Ich hatte einen guten Job
+714,i had a hard day,i had a hard day,tuve un dia dificil,j'ai eu une dure journée,Ich hatte einen harten Tag
+715,i had a headache,i had a headache,tuve un dolor de cabeza,j'ai eu une migraine,ich hatte Kopfschmerzen
+716,i had my reasons,i had my reasons,tenía mis razones,j'avais mes raisons,Ich hatte meine Gründe
+717,i had to be sure,i had to be sure,tenía que estar seguro,je devais être sûr,Ich musste sicher sein
+718,i had to go back,i had to go back,Tengo que volver,j'ai dû retourner,Ich musste zurück
+719,i had to see you,i had to see you,tenia que verte,je devais te voir,Ich musste dich sehen
+720,i hate halloween,i hate halloween,odio halloween,je déteste Halloween,Ich hasse Halloween
+721,i hate chemistry,i hate chemistry,odio la química,je déteste la chimie,Ich hasse Chemie
+722,i hate computers,i hate computers,odio las computadoras,je déteste les ordinateurs,Ich hasse Computer
+723,i hate hypocrisy,i hate hypocrisy,odio la hipocresía,je déteste l'hypocrisie,Ich hasse Heuchelei
+724,i hate my sister,i hate my sister,odio a mi hermana,je déteste ma sœur,Ich hasse meine Schwester
+725,i hate paperwork,i hate paperwork,odio el papeleo,je déteste la paperasse,Ich hasse Papierkram
+726,i hate surprises,i hate surprises,odio las sorpresas,je déteste les surprises,Ich hasse Überraschungen
+727,i hate that book,i hate that book,odio ese libro,je déteste ce livre,Ich hasse dieses Buch
+728,i hate that idea,i hate that idea,odio esa idea,je déteste cette idée,Ich hasse diese Idee
+729,i hate that song,i hate that song,odio esa cancion,je déteste cette chanson,Ich hasse dieses Lied
+730,i hate that word,i hate that word,Odio esa palabra,je déteste ce mot,Ich hasse dieses Wort
+731,i hate this game,i hate this game,odio este juego,Je déteste ce jeu,ich hasse dieses Spiel
+732,i hate this song,i hate this song,odio esta canción,Je déteste cette chanson,Ich hasse dieses Lied
+733,i hate this town,i hate this town,odio este pueblo,je déteste cette ville,ich hasse diese Stadt
+734,i hate traveling,i hate traveling,odio viajar,je déteste voyager,ich hasse reisen
+735,i hate your guts,i hate your guts,Odio tu carácter,je déteste tes tripes,ich hasse dich abgrundtief
+736,i have tom's key,i have tom s key,tengo la llave de tom,j'ai la clé de tom,Ich habe Toms Schlüssel
+737,i have a bicycle,i have a bicycle,Tengo una bicicleta,j'ai un vélo,Ich habe ein Fahrrad
+738,i have a big dog,i have a big dog,tengo un perro grande,j'ai un gros chien,Ich habe einen großen Hund
+739,i have a brother,i have a brother,tengo un hermano,j'ai un frère,Ich habe einen Bruder
+740,i have a comment,i have a comment,tengo un comentario,j'ai un commentaire,Ich habe einen Kommentar
+741,i have a diploma,i have a diploma,tengo un diploma,j'ai un diplôme,Ich habe ein Diplom
+742,i have a grenade,i have a grenade,tengo una granada,j'ai une grenade,Ich habe eine Granate
+743,i have a husband,i have a husband,Tengo un marido,j'ai un mari,Ich habe einen Ehemann
+744,i have a new car,i have a new car,Tengo un nuevo auto,j'ai une nouvelle voiture,Ich habe ein neues Auto
+745,i have a new job,i have a new job,tengo un nuevo trabajo,j'ai un nouveau travail,ich habe einen neuen Job
+746,i have a problem,i have a problem,tengo un problema,J'ai un problème,Ich habe ein Problem
+747,i have a receipt,i have a receipt,tengo un recibo,j'ai un reçu,Ich habe eine Quittung
+748,i have a red car,i have a red car,tengo un carro rojo,j'ai une voiture rouge,ich habe ein rotes Auto
+749,i have a request,i have a request,tengo una petición,j'ai une demande,Ich habe eine Bitte
+750,i have a website,i have a website,tengo un sitio web,j'ai un site web,Ich habe eine Webseite
+751,i have allergies,i have allergies,Tengo alergias,J'ai des allergies,Ich habe Allergien
+752,i have an excuse,i have an excuse,tengo una excusa,j'ai une excuse,Ich habe eine Entschuldigung
+753,i have asked him,i have asked him,le he preguntado,je lui ai demandé,ich habe ihn gefragt
+754,i have been busy,i have been busy,He estado ocupado,j'ai été occupé,Ich war beschäftigt
+755,i have few books,i have few books,tengo pocos libros,j'ai peu de livres,Ich habe wenige Bücher
+756,i have forgotten,i have forgotten,he olvidado,j'ai oublié,Ich habe vergessen
+757,i have good news,i have good news,tengo buenas noticias,j'ai de bonnes nouvelles,ich habe gute Nachrichten
+758,i have hay fever,i have hay fever,tengo fiebre del heno,j'ai le rhume des foins,Ich habe Heuschnupfen
+759,i have heartburn,i have heartburn,tengo acidez estomacal,j'ai des brûlures d'estomac,Ich habe Sodbrennen
+760,i have insurance,i have insurance,tengo seguro,j'ai une assurance,Ich habe eine Versicherung
+761,i have no choice,i have no choice,No tengo otra opción,je n'ai pas le choix,ich habe keine Wahl
+762,i have no excuse,i have no excuse,no tengo excusa,je n'ai aucune excuse,Ich habe keine Entschuldigung
+763,i have no family,i have no family,No tengo familia,je n'ai pas de famille,Ich habe keine Familie
+764,i have one child,i have one child,tengo un hijo,j'ai un enfant,Ich habe ein Kind
+765,i have pneumonia,i have pneumonia,Tengo neumonía,J'ai une pneumonie,Ich habe eine Lungenentzündung
+766,i have questions,i have questions,tengo preguntas,j'ai des questions,Ich habe Fragen
+767,i have some food,i have some food,tengo algo de comida,j'ai de la nourriture,Ich habe etwas zu essen
+768,i have some time,i have some time,Tengo algo de tiempo,j'ai un peu de temps,Ich habe etwas Zeit
+769,i have something,i have something,tengo algo,j'ai quelque chose,ich habe etwas
+770,i have sore feet,i have sore feet,tengo dolor de pies,j'ai mal aux pieds,Ich habe wunde Füße
+771,i have standards,i have standards,tengo normas,j'ai des normes,Ich habe Maßstäbe
+772,i have to change,i have to change,tengo que cambiar,Je dois changer,Ich muss verändern
+773,i have to escape,i have to escape,tengo que escapar,je dois m'échapper,ich muss fliehen
+774,i have to go now,i have to go now,tengo que irme ahora,je dois partir maintenant,ich muss jetzt gehen
+775,i have to say no,i have to say no,tengo que decir no,Je dois dire non,ich muss nein sagen
+776,i have toothache,i have toothache,Tengo dolor de muelas,j'ai mal aux dents,ich habe Zahnweh
+777,i have two books,i have two books,tengo dos libros,j'ai deux livres,Ich habe zwei Bücher
+778,i hear he is ill,i hear he is ill,escuché que está enfermo,j'entends qu'il est malade,"Ich höre, er ist krank"
+779,i hear something,i hear something,oigo algo,J'entends quelque chose,ich höre etwas
+780,i hear the phone,i hear the phone,escucho el teléfono,j'entends le téléphone,Ich höre das Telefon
+781,i heard a scream,i heard a scream,escuché un grito,j'ai entendu un cri,Ich hörte einen Schrei
+782,i heard about it,i heard about it,oí sobre ello,j'en ai entendu parler,ich habe davon gehört
+783,i heard coughing,i heard coughing,escuché toser,j'ai entendu tousser,Ich hörte Husten
+784,i heard gunshots,i heard gunshots,escuché disparos,j'ai entendu des coups de feu,Ich hörte Schüsse
+785,i heard it on tv,i heard it on tv,lo escuché en la televisión,je l'ai entendu à la télé,Ich habe es im Fernsehen gehört
+786,i heard the bell,i heard the bell,escuché la campana,j'ai entendu la cloche,Ich habe die Glocke gehört
+787,i hope it's over,i hope it is over,espero que se acabe,j'espère que c'est fini,ich hoffe es ist vorbei
+788,i hope it's true,i hope it is true,espero que sea verdad,J'espère que c'est vrai,ich hoffe es stimmt
+789,i hope to attend,i hope to attend,espero asistir,j'espère y assister,"Ich hoffe, dabei zu sein"
+790,i hope you agree,i hope you agree,espero que estés de acuerdo,j'espère que tu es d'accord,ich hoffe du bist damit einverstanden
+791,i insist on that,i insist on that,insisto en eso,j'insiste là-dessus,darauf bestehe ich
+792,i just got a job,i just got a job,acabo de conseguir un trabajo,je viens de trouver un emploi,Ich habe gerade einen Job bekommen
+793,i just got fired,i just got fired,me acaban de despedir,je viens de me faire virer,Ich wurde gerade gefeuert
+794,i just love that,i just love that,me encanta eso,j'adore ça,ich liebe das einfach
+795,i just opened it,i just opened it,lo acabo de abrir,je viens de l'ouvrir,Ich habe es gerade geöffnet
+796,i just said that,i just said that,Acabo de decir que,Je viens de dire que,Ich habe das gerade gesagt
+797,i keep a journal,i keep a journal,mantengo un diario,je tiens un journal,Ich führe ein Tagebuch
+798,i kicked the dog,i kicked the dog,pateé al perro,j'ai donné un coup de pied au chien,Ich habe den Hund getreten
+799,i knew the risks,i knew the risks,conocía los riesgos,je connaissais les risques,Ich kannte die Risiken
+800,i knit every day,i knit every day,tejo todos los días,je tricote tous les jours,Ich stricke jeden Tag
+801,i know i'm wrong,i know i am wrong,sé que estoy equivocado,je sais que je me trompe,"Ich weiß, dass ich falsch liege"
+802,i know tom is in,i know tom is in,Sé que Tom está en,Je sais que Tom est dans,"Ich weiß, dass Tom dabei ist"
+803,i know he did it,i know he did it,yo se que el lo hizo,je sais qu'il l'a fait,"Ich weiß, dass er es getan hat"
+804,i know it myself,i know it myself,yo mismo lo se,je le sais moi-même,Ich weiß es selbst
+805,i know only this,i know only this,solo se esto,je ne connais que ça,ich weiß nur das
+806,i know that girl,i know that girl,Sé que esa chica,je connais cette fille,Ich kenne das Mädchen
+807,i know that name,i know that name,conozco ese nombre,je connais ce nom,ich kenne diesen namen
+808,i know the drill,i know the drill,conozco el ejercicio,je connais l'exercice,Ich kenne die Übung
+809,i know the truth,i know the truth,yo sé la verdad,je connais la vérité,Ich kenne die Wahrheit
+810,i know this song,i know this song,Yo me sé esta canción,Je connais cette chanson,ich kenne dieses Lied
+811,i know your face,i know your face,conozco tu cara,je connais ton visage,Ich kenne dein Gesicht
+812,i know your name,i know your name,sé tu nombre,je connais ton nom,ich kenne deinen Namen
+813,i know your type,i know your type,conozco tu tipo,je connais ton genre,Ich kenne deinen Typ
+814,i leave tomorrow,i leave tomorrow,Me voy mañana,Je pars demain,ich gehe morgen
+815,i left a message,i left a message,Dejé un mensaje,j'ai laissé un message,Ich habe eine Nachricht hinterlassen
+816,i let the cat in,i let the cat in,dejé entrar al gato,je laisse entrer le chat,Ich habe die Katze hereingelassen
+817,i lifted the box,i lifted the box,levanté la caja,j'ai soulevé la boîte,Ich habe die Kiste hochgehoben
+818,i like astrology,i like astrology,me gusta la astrologia,j'aime l'astrologie,Ich mag Astrologie
+819,i like chocolate,i like chocolate,me gusta el chocolate,J'aime le chocolat,ich mag Schokolade
+820,i like elephants,i like elephants,me gustan los elefantes,j'aime les éléphants,Ich mag Elefanten
+821,i like fresh air,i like fresh air,me gusta el aire fresco,j'aime l'air frais,Ich mag frische Luft
+822,i like her novel,i like her novel,me gusta su novela,j'aime son roman,Ich mag ihren Roman
+823,i like his music,i like his music,Me gusta su música,j'aime sa musique,Ich mag seine Musik
+824,i like math best,i like math best,me gustan mas las matematicas,je préfère les maths,Ich mag Mathe am liebsten
+825,i like mysteries,i like mysteries,Me gustan los misterios,J'aime les mystères,Ich mag Geheimnisse
+826,i like pop music,i like pop music,Me gusta la música pop,J'aime la musique pop,ich mag Popmusik
+827,i like surprises,i like surprises,me gustan las sorpresas,j'aime les surprises,Ich mag Überraschungen
+828,i like that idea,i like that idea,Me gusta esa idea,J'aime cette idée,ich mag diese Idee
+829,i like that song,i like that song,me gusta esa canción,J'aime cette chanson,Ich mag dieses Lied
+830,i like the beach,i like the beach,me gusta la playa,J'aime la plage,Ich mag den Strand
+831,i like the ocean,i like the ocean,me gusta el océano,j'aime l'océan,Ich mag das Meer
+832,i like these two,i like these two,me gustan estos dos,j'aime ces deux,ich mag diese beiden
+833,i like this book,i like this book,me gusta este libro,J'aime ce livre,Ich mag dieses Buch
+834,i like this game,i like this game,me gusta este juego,J'aime ce jeu,Ich mag dieses Spiel
+835,i like this room,i like this room,me gusta esta habitación,j'aime cette chambre,Ich mag dieses Zimmer
+836,i like this song,i like this song,me gusta esta canción,J'aime cette chanson,Ich mag das Lied
+837,i like to travel,i like to travel,me gusta viajar,J'aime voyager,Ich reise gerne
+838,i like traveling,i like traveling,Me gusta viajar,J'aime voyager,Ich mag reisen
+839,i like what i do,i like what i do,me gusta lo que hago,j'aime ce que je fais,ich mag Was ich mache
+840,i like your city,i like your city,me gusta tu ciudad,j'aime ta ville,Ich mag deine Stadt
+841,i like your hair,i like your hair,me gusta tu pelo,J'aime tes cheveux,Ich mag deine Haare
+842,i like your legs,i like your legs,Me gustan tus piernas,J'aime tes jambes,ich mag deine Beine
+843,i liked it a lot,i liked it a lot,Me gustó mucho,j'ai beaucoup aimé,ich mochte es sehr
+844,i lit the candle,i lit the candle,encendí la vela,j'ai allumé la bougie,Ich habe die Kerze angezündet
+845,i live in boston,i live in boston,vivo en Boston,je vis à Boston,ich lebe in Boston
+846,i live near here,i live near here,yo vivo cerca de aquí,je vis près d'ici,Ich lebe hier in der Nähe
+847,i live next door,i live next door,vivo al lado,j'habite à côté,Ich lebe neben an
+848,i live on a boat,i live on a boat,vivo en un barco,je vis sur un bateau,Ich lebe auf einem Boot
+849,i lost my camera,i lost my camera,perdí mi cámara,j'ai perdu mon appareil photo,Ich habe meine Kamera verloren
+850,i lost my papers,i lost my papers,perdí mis papeles,j'ai perdu mes papiers,Ich habe meine Papiere verloren
+851,i lost my temper,i lost my temper,perdí la calma,j'ai perdu mon sang-froid,Ich habe die Beherschung verloren
+852,i lost my wallet,i lost my wallet,Perdí mi cartera,J'ai perdu mon porte-monnaie,Ich habe meine Geldtasche verloren
+853,i lost the watch,i lost the watch,perdí el reloj,j'ai perdu la montre,Ich habe die Uhr verloren
+854,i love australia,i love australia,me encanta australia,j'aime l'australie,Ich liebe Australien
+855,i love christmas,i love christmas,amo la Navidad,J `aime noel,ich liebe Weihnachten
+856,i love adventure,i love adventure,amo la aventura,j'aime l'aventure,Ich liebe Abenteuer
+857,i love astronomy,i love astronomy,me encanta la astronomia,j'aime l'astronomie,Ich liebe Astronomie
+858,i love chocolate,i love chocolate,amo el chocolate,J'aime le chocolat,ich liebe Schokolade
+859,i love egg yolks,i love egg yolks,me encantan las yemas de huevo,j'adore les jaunes d'oeufs,Ich liebe Eigelb
+860,i love gardening,i love gardening,amo la jardineria,j'aime le jardinage,Ich liebe Gartenarbeit
+861,i love libraries,i love libraries,amo las bibliotecas,j'aime les bibliothèques,Ich liebe Bibliotheken
+862,i love my family,i love my family,amo a mi familia,J'adore ma famille,Ich liebe meine Familie
+863,i love my mother,i love my mother,quiero a mi madre,J'aime ma mère,ich liebe meine Mutter
+864,i love old books,i love old books,me encantan los libros antiguos,j'aime les vieux livres,Ich liebe alte Bücher
+865,i love soul food,i love soul food,me encanta la comida del alma,j'aime la nourriture de l'âme,Ich liebe Soulfood
+866,i love surprises,i love surprises,Me encantan las sorpresas,j'aime les surprises,Ich liebe Überraschungen
+867,i love that book,i love that book,me encanta ese libro,j'adore ce livre,Ich liebe dieses Buch
+868,i love that idea,i love that idea,me encanta esa idea,j'adore cette idée,Ich liebe diese Idee
+869,i love that show,i love that show,me encanta ese programa,j'adore ce spectacle,Ich liebe diese Show
+870,i love that song,i love that song,me encanta esa canción,J'adore cette chanson,ich liebe dieses Lied
+871,i love that suit,i love that suit,me encanta ese traje,j'adore ce costume,Ich liebe diesen Anzug
+872,i love that word,i love that word,me encanta esa palabra,j'aime ce mot,Ich liebe dieses Wort
+873,i love this band,i love this band,amo esta banda,J'aime ce groupe,ich liebe diese Band
+874,i love this game,i love this game,me encanta este juego,J'adore ce jeu,ich liebe dieses Spiel
+875,i love this part,i love this part,Amo esta parte,j'aime cette partie,Ich liebe dieses Teil
+876,i love this show,i love this show,me encanta este programa,j'adore ce spectacle,Ich liebe diese Sendung
+877,i love this song,i love this song,amo esta canción,J'adore cette chanson,Ich liebe dieses Lied
+878,i love this town,i love this town,amo esta ciudad,j'aime cette ville,ich liebe diese Stadt
+879,i love this view,i love this view,me encanta esta vista,j'aime cette vue,Ich liebe diese Aussicht
+880,i love to travel,i love to travel,me encanta viajar,J'aime voyager,Ich liebe es zu reisen
+881,i love traveling,i love traveling,Amo viajar,J'aime voyager,Ich liebe Reisen
+882,i love what i do,i love what i do,yo amo lo que hago,J'aime ce que je fais,"ich liebe, was ich tue"
+883,i love you a lot,i love you a lot,te quiero mucho,je t'aime beaucoup,ich liebe dich sehr
+884,i love your city,i love your city,amo tu ciudad,j'aime ta ville,Ich liebe deine Stadt
+885,i love your eyes,i love your eyes,amo tus ojos,J'aime tes yeux,ich liebe deine Augen
+886,i love your hair,i love your hair,amo tu cabello,J'adore tes cheveux,ich liebe deine Haare
+887,i loved that car,i loved that car,me encantaba ese coche,j'ai adoré cette voiture,Ich liebte dieses Auto
+888,i loved that dog,i loved that dog,amaba a ese perro,j'aimais ce chien,Ich liebte diesen Hund
+889,i loved the play,i loved the play,me encantó la obra,j'ai adoré le jeu,Ich liebte das Stück
+890,i made tom laugh,i made tom laugh,hice reír a tom,j'ai fait rire tom,Ich habe Tom zum Lachen gebracht
+891,i made a fortune,i made a fortune,hice una fortuna,j'ai fait fortune,Ich habe ein Vermögen gemacht
+892,i made a mistake,i made a mistake,Cometí un error,j'ai fait une erreur,Ich machte einen Fehler
+893,i made a promise,i made a promise,hice una promesa,j'ai fait une promesse,Ich habe es versprochen
+894,i made a snowman,i made a snowman,hice un muñeco de nieve,j'ai fait un bonhomme de neige,Ich habe einen Schneemann gebaut
+895,i made breakfast,i made breakfast,Hice el desayuno,j'ai fait le petit déjeuner,Ich habe Frühstück gemacht
+896,i made him do so,i made him do so,lo obligué a hacerlo,je lui ai fait faire,Ich habe ihn dazu gebracht
+897,i made it myself,i made it myself,lo hice yo,je l'ai fait moi-même,ich habe es selbst gemacht
+898,i make the rules,i make the rules,Yo hago las reglas,je fais les règles,Ich mache die Regeln
+899,i may be too old,i may be too old,Puedo ser demasiado viejo,je suis peut-être trop vieux,Ich bin vielleicht zu alt
+900,i met my friends,i met my friends,Me encontre con mis amigos,j'ai rencontré mes amis,Ich habe meine Freunde getroffen
+901,i might be wrong,i might be wrong,podría estar equivocado,j'ai peut être tort,Ich könnte falsch liegen
+902,i miss her a lot,i miss her a lot,la extraño mucho,Elle me manque beaucoup,ich vermisse sie sehr
+903,i miss you a lot,i miss you a lot,Te extraño mucho,tu me manques beaucoup,Ich vermisse dich sehr
+904,i miss you badly,i miss you badly,te extraño mucho,tu me manques beaucoup,ich vermisse dich sehr
+905,i missed the bus,i missed the bus,Perdí el autobús,J'ai manqué le bus,Ich habe den Bus verpasst
+906,i must apologize,i must apologize,Debo disculparme,Je dois présenter des excuses,Ich muss mich entschuldigen
+907,i must get going,i must get going,Debo irme,Je dois partir,Ich muss jetzt gehen
+908,i must leave now,i must leave now,debo irme ahora,je dois partir maintenant,Ich muss jetzt gehen
+909,i must warn them,i must warn them,debo advertirles,je dois les prévenir,Ich muss sie warnen
+910,i nearly starved,i nearly starved,casi me muero de hambre,j'ai failli mourir de faim,ich bin fast verhungert
+911,i need a kleenex,i need a kleenex,necesito un kleenex,j'ai besoin d'un kleenex,Ich brauche ein Kleenex
+912,i need a blanket,i need a blanket,necesito una manta,j'ai besoin d'une couverture,Ich brauche eine Decke
+913,i need a haircut,i need a haircut,necesito un corte de pelo,j'ai besoin d'une coupe de cheveux,ich benötige einen Haarschnitt
+914,i need a holiday,i need a holiday,necesito unas vacaciones,j'ai besoin de vacances,ich brauche Ferien
+915,i need a miracle,i need a miracle,necesito un milagro,j'ai besoin d'un miracle,Ich brauche ein Wunder
+916,i need a new one,i need a new one,Necesito uno nuevo,j'ai besoin d'un nouveau,Ich brauche eine neue
+917,i need a partner,i need a partner,necesito un socio,j'ai besoin d'un partenaire,Ich brauche einen Partner
+918,i need a plumber,i need a plumber,necesito un fontanero,j'ai besoin d'un plombier,Ich brauche einen Klempner
+919,i need a red pen,i need a red pen,necesito un bolígrafo rojo,j'ai besoin d'un stylo rouge,Ich brauche einen roten Stift
+920,i need all of it,i need all of it,lo necesito todo,j'ai besoin de tout,ich brauche das alles
+921,i need an escort,i need an escort,necesito una escolta,j'ai besoin d'une escorte,Ich brauche eine Eskorte
+922,i need envelopes,i need envelopes,necesito sobres,j'ai besoin d'enveloppes,Ich brauche Umschläge
+923,i need more gold,i need more gold,necesito mas oro,j'ai besoin de plus d'or,Ich brauche mehr Gold
+924,i need more room,i need more room,necesito mas espacio,j'ai besoin de plus de place,Ich brauche mehr Platz
+925,i need more time,i need more time,necesito más tiempo,j'ai besoin de plus de temps,ich brauche mehr Zeit
+926,i need new shoes,i need new shoes,necesito zapatos nuevos,j'ai besoin de nouvelles chaussures,Ich brauche neue Schuhe
+927,i need new tires,i need new tires,necesito llantas nuevas,j'ai besoin de nouveaux pneus,Ich brauche neue Reifen
+928,i need some cash,i need some cash,necesito algo de efectivo,j'ai besoin d'argent,Ich brauche etwas Bargeld
+929,i need some soap,i need some soap,necesito un poco de jabón,j'ai besoin de savon,Ich brauche etwas Seife
+930,i need subtitles,i need subtitles,necesito subtitulos,j'ai besoin de sous-titres,Ich brauche Untertitel
+931,i need the money,i need the money,necesito el dinero,j'ai besoin d'argent,Ich brauche Geld
+932,i need to travel,i need to travel,necesito viajar,J'ai besoin de voyager,Ich muss reisen
+933,i need your help,i need your help,necesito tu ayuda,j'ai besoin de votre aide,Ich brauche deine Hilfe
+934,i never did that,i never did that,nunca hice eso,je n'ai jamais fait ça,ich habe das nie getan
+935,i never sleep in,i never sleep in,nunca duermo,je ne dors jamais,ich schlafe nie aus
+936,i never told tom,i never told tom,nunca le dije a tom,je ne lui ai jamais dit,Ich habe es Tom nie gesagt
+937,i often exercise,i often exercise,a menudo hago ejercicio,je fais souvent du sport,ich trainiere oft
+938,i opened one eye,i opened one eye,abrí un ojo,j'ai ouvert un oeil,Ich öffnete ein Auge
+939,i opened the bag,i opened the bag,abrí la bolsa,j'ai ouvert le sac,Ich habe die Tasche geöffnet
+940,i owe him a debt,i owe him a debt,le debo una deuda,je lui dois une dette,Ich schulde ihm etwas
+941,i owe you a beer,i owe you a beer,Te debo una cerveza,je te dois une bière,ich schulde dir ein Bier
+942,i own a computer,i own a computer,tengo una computadora,je possède un ordinateur,Ich besitze einen Computer
+943,i own this place,i own this place,soy dueño de este lugar,je possède cet endroit,Ich besitze diesen Ort
+944,i own this store,i own this store,soy dueño de esta tienda,je possède ce magasin,Ich besitze diesen Laden
+945,i paid attention,i paid attention,presté atención,j'ai fait attention,ich habe darauf geachtet
+946,i paid the check,i paid the check,pagué el cheque,j'ai payé le chèque,Ich habe den Scheck bezahlt
+947,i party too much,i party too much,salgo demasiado de fiesta,je fais trop la fête,Ich feiere zu viel
+948,i pay my own way,i pay my own way,pago a mi manera,je paie mon propre chemin,Ich zahle meinen eigenen Weg
+949,i planted a tree,i planted a tree,planté un árbol,j'ai planté un arbre,Ich habe einen Baum gepflanzt
+950,i play in a band,i play in a band,toco en una banda,je joue dans un groupe,Ich spiele in einer Band
+951,i play the piano,i play the piano,Toco el piano,Je joue du piano,Ich spiele Klavier
+952,i pointed at him,i pointed at him,lo señalé,je l'ai pointé du doigt,Ich zeigte auf ihn
+953,i prayed for tom,i prayed for tom,recé por tom,j'ai prié pour tom,Ich habe für Tom gebetet
+954,i prefer reading,i prefer reading,prefiero leer,je préfère lire,ich lese lieber
+955,i prefer to read,i prefer to read,prefiero leer,je préfère lire,ich lese lieber
+956,i prefer to walk,i prefer to walk,prefiero caminar,je préfère marcher,Ich gehe lieber zu Fuß
+957,i prefer walking,i prefer walking,prefiero caminar,je préfère marcher,ich gehe lieber spazieren
+958,i ran downstairs,i ran downstairs,corrí escaleras abajo,j'ai couru en bas,Ich rannte nach unten
+959,i ran out of gas,i ran out of gas,me quedé sin gasolina,je suis tombé en panne d'essence,Mir ist das Benzin ausgegangen
+960,i ran out of ink,i ran out of ink,me quedé sin tinta,je n'ai plus d'encre,Mir ist die Tinte ausgegangen
+961,i really am busy,i really am busy,realmente estoy ocupado,je suis vraiment occupé,Ich bin wirklich beschäftigt
+962,i really hope so,i really hope so,realmente espero eso,J'espère vraiment,Das hoffe ich wirklich
+963,i really hurried,i really hurried,realmente me apresure,je me suis vraiment dépêché,Ich habe mich wirklich beeilt
+964,i really like it,i really like it,Me gusta mucho,J'aime vraiment ça,ich mag es wirklich
+965,i really mean it,i really mean it,lo digo en serio,je le pense vraiment,Ich meine es ernst
+966,i really need it,i really need it,lo necesito de verdad,j'en ai vraiment besoin,ich brauche es wirklich
+967,i recommend this,i recommend this,recomiendo esto,je recommande ceci,Ich empfehle das
+968,i refuse to work,i refuse to work,me niego a trabajar,je refuse de travailler,Ich weigere mich zu arbeiten
+969,i refused to pay,i refused to pay,me negué a pagar,j'ai refusé de payer,Ich weigerte mich zu zahlen
+970,i regret nothing,i regret nothing,me arrepiento de nada,je ne regrette rien,ich bereue nichts
+971,i require advice,i require advice,requiero consejo,j'ai besoin de conseils,Ich brauche Rat
+972,i rubbed my feet,i rubbed my feet,me froté los pies,je me suis frotté les pieds,Ich habe meine Füße gerieben
+973,i run this place,i run this place,dirijo este lugar,je dirige cet endroit,Ich leite diesen Ort
+974,i said i was sad,i said i was sad,dije que estaba triste,j'ai dit que j'étais triste,"Ich sagte, ich sei traurig"
+975,i said stay back,i said stay back,Dije que te quedaras atrás,j'ai dit de rester en arrière,"Ich sagte, bleib zurück"
+976,i sat at the bar,i sat at the bar,me senté en el bar,je me suis assis au bar,Ich saß an der Bar
+977,i sat beside her,i sat beside her,me senté a su lado,je me suis assis à côté d'elle,Ich saß neben ihr
+978,i saw tom's face,i saw tom s face,vi la cara de tom,j'ai vu le visage de tom,Ich habe Toms Gesicht gesehen
+979,i saw everything,i saw everything,vi todo,j'ai tout vu,Ich habe alles gesehen
+980,i saw him go out,i saw him go out,lo vi salir,je l'ai vu sortir,Ich sah ihn ausgehen
+981,i see your house,i see your house,veo tu casa,je vois ta maison,Ich sehe dein Haus
+982,i see your point,i see your point,entiendo tu argumento,Je vois ce que tu veux dire,"ich weiß, worauf du hinauswillst"
+983,i seldom do that,i seldom do that,Rara vez hago eso,je fais rarement ça,das mache ich selten
+984,i seldom see him,i seldom see him,rara vez lo veo,je le vois rarement,ich sehe ihn selten
+985,i sell computers,i sell computers,vendo computadoras,je vends des ordinateurs,Ich verkaufe Computer
+986,i sell umbrellas,i sell umbrellas,vendo paraguas,je vends des parapluies,Ich verkaufe Regenschirme
+987,i sing at church,i sing at church,yo canto en la iglesia,je chante à l'église,Ich singe in der Kirche
+988,i sold the books,i sold the books,vendí los libros,j'ai vendu les livres,Ich habe die Bücher verkauft
+989,i started crying,i started crying,Empecé a llorar,j'ai commencé à pleurer,Ich fing an zu weinen
+990,i started to cry,i started to cry,comencé a llorar,j'ai commencé à pleurer,Ich fing an zu weinen
+991,i still like tom,i still like tom,todavía me gusta tom,j'aime toujours tom,Ich mag Tom immer noch
+992,i still love you,i still love you,Todavia te quiero,je t'aime encore,Ich liebe dich immer noch
+993,i still think so,i still think so,todavía lo creo,je le pense toujours,Ich denke immer noch
+994,i strongly agree,i strongly agree,estoy totalmente de acuerdo,Je suis entièrement d'accord,Ich bin sehr einverstanden
+995,i suffered a lot,i suffered a lot,sufrí mucho,j'ai beaucoup souffert,ich habe sehr gelitten
+996,i swim every day,i swim every day,nado todos los días,je nage tous les jours,Ich schwimme jeden Tag
+997,i talk to myself,i talk to myself,hablo solo,je me parle,Ich rede mit mir selbst
+998,i think i'm done,i think i am done,creo que he terminado,je pense que j'ai fini,"Ich denke, ich bin fertig"
+999,i think tom died,i think tom died,creo que tom murio,je pense que tom est mort,"Ich glaube, Tom ist gestorben"
